@@ -1,0 +1,1 @@
+Gene	Class	ColorKRAS	Hydrolysis	#ef476fKRAS	Hybrid	#08bf39KRAS	Exchange	#2195d9KRAS	Unclassified	#a6a4a2BRAF	Class 1	#ef476fBRAF	Class 2	#08bf39BRAF	Class 3	#2195d9BRAF	Unclassified	#a6a4a2EGFR	Classical_like	#ef476fEGFR	Ex20ins_L	#08bf39EGFR	PACC	#2195d9EGFR	T790M_like_3R	#ffd166EGFR	T790M_like_3S	#e67709EGFR	Unclassified	#a6a4a2

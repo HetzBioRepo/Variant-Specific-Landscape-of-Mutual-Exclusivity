@@ -1,0 +1,1571 @@
+Study.ID	Sample.ID	Patient.ID	KRAS	EGFR	BRAF	classesKRAS	classesBRAF	classesEGFR	tuplesKRAS	tuplesBRAF	tuplesEGFR
+ccle_broad_2019	SW1116_LARGE_INTESTINE	SW1116_LARGE_INTESTINE	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	UMUC3_URINARY_TRACT	UMUC3_URINARY_TRACT	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	RVH421_SKIN	RVH421_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	TC71_BONE	TC71_BONE	no alteration	A1048S	no alteration						A1048S
+ccle_broad_2019	NCIH2227_LUNG	NCIH2227_LUNG	no alteration	no alteration	A320S					A320S	
+ccle_broad_2019	COLO205_LARGE_INTESTINE	COLO205_LARGE_INTESTINE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	OV56_OVARY	OV56_OVARY	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	KYSE450_OESOPHAGUS	KYSE450_OESOPHAGUS	no alteration	S768I	no alteration			PACC: S768I			S768I
+ccle_broad_2019	RKN_SOFT_TISSUE	RKN_SOFT_TISSUE	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PATU8988S_PANCREAS	PATU8988S_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	RERFLCAD2_LUNG	RERFLCAD2_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	OUMS23_LARGE_INTESTINE	OUMS23_LARGE_INTESTINE	no alteration	no alteration	V600E, X287_splice		Class 1: V600E			V600E; X287_splice	
+ccle_broad_2019	SNGM_ENDOMETRIUM	SNGM_ENDOMETRIUM	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	NCIH2347_LUNG	NCIH2347_LUNG	L19F	no alteration	no alteration	Exchange: L19F			L19F		
+ccle_broad_2019	SW1990_PANCREAS	SW1990_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	TOLEDO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TOLEDO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	NCIH2087_LUNG	NCIH2087_LUNG	no alteration	no alteration	L597V		Class 2: L597V			L597V	
+ccle_broad_2019	NCIH716_LARGE_INTESTINE	NCIH716_LARGE_INTESTINE	R97I	no alteration	no alteration				R97I		
+ccle_broad_2019	SW480_LARGE_INTESTINE	SW480_LARGE_INTESTINE	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	LU65_LUNG	LU65_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	SNUC2A_LARGE_INTESTINE	SNUC2A_LARGE_INTESTINE	G12D	R165Q	no alteration	Hydrolysis: G12D			G12D		R165Q
+ccle_broad_2019	SKMEL1_SKIN	SKMEL1_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUPT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	C251Y	no alteration						C251Y
+ccle_broad_2019	HCC38_BREAST	HCC38_BREAST	no alteration	R309G	no alteration						R309G
+ccle_broad_2019	DU4475_BREAST	DU4475_BREAST	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	NCIH1573_LUNG	NCIH1573_LUNG	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	NCIH508_LARGE_INTESTINE	NCIH508_LARGE_INTESTINE	no alteration	no alteration	G596R		Class 3: G596R			G596R	
+ccle_broad_2019	NCIH1651_LUNG	NCIH1651_LUNG	no alteration	no alteration	E375D					E375D	
+ccle_broad_2019	SKUT1_SOFT_TISSUE	SKUT1_SOFT_TISSUE	no alteration	A653Pfs*52	no alteration						A653Pfs*52
+ccle_broad_2019	NCIH226_LUNG	NCIH226_LUNG	no alteration	R309G	no alteration						R309G
+ccle_broad_2019	NCIH1666_LUNG	NCIH1666_LUNG	no alteration	no alteration	G466V		Class 3: G466V			G466V	
+ccle_broad_2019	NCIH1734_LUNG	NCIH1734_LUNG	G13C	no alteration	no alteration	Exchange: G13C			G13C		
+ccle_broad_2019	OC316_OVARY	OC316_OVARY	no alteration	no alteration	P403Lfs*8, A747V					A747V; P403Lfs*8	
+ccle_broad_2019	HS936T_SKIN	HS936T_SKIN	no alteration	no alteration	N581K					N581K	
+ccle_broad_2019	PANC1_PANCREAS	PANC1_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NCIH2291_LUNG	NCIH2291_LUNG	G12V, G12C, G12F	V592F	no alteration	Hydrolysis: G12C; Hydrolysis: G12F; Hydrolysis: G12V			G12C; G12F; G12V		V592F
+ccle_broad_2019	SKMEL28_SKIN	SKMEL28_SKIN	no alteration	P753S	V600E		Class 1: V600E			V600E	P753S
+ccle_broad_2019	BHY_UPPER_AERODIGESTIVE_TRACT	BHY_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	G30_A33del					G30_A33del	
+ccle_broad_2019	SH4_SKIN	SH4_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	LS123_LARGE_INTESTINE	LS123_LARGE_INTESTINE	G12S	no alteration	no alteration	Hydrolysis: G12S			G12S		
+ccle_broad_2019	HPAC_PANCREAS	HPAC_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SU8686_PANCREAS	SU8686_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	HCC33_LUNG	HCC33_LUNG	no alteration	Q71L	no alteration						Q71L
+ccle_broad_2019	SNU1197_LARGE_INTESTINE	SNU1197_LARGE_INTESTINE	G12D	A1048V	no alteration	Hydrolysis: G12D			G12D		A1048V
+ccle_broad_2019	COLO668_LUNG	COLO668_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PANC0203_PANCREAS	PANC0203_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	BICR18_UPPER_AERODIGESTIVE_TRACT	BICR18_UPPER_AERODIGESTIVE_TRACT	X38_splice, I187V	no alteration	X47_splice, A145Tfs*13, V144Afs*39				I187V; X38_splice	A145Tfs*13; V144Afs*39; X47_splice	
+ccle_broad_2019	CW2_LARGE_INTESTINE	CW2_LARGE_INTESTINE	P140H	E543fs, E928G, V323I, G640Wfs*3	no alteration				P140H		E543fs; E928G; G640Wfs*3; V323I
+ccle_broad_2019	SNU61_LARGE_INTESTINE	SNU61_LARGE_INTESTINE	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	HCC2279_LUNG	HCC2279_LUNG	no alteration	E746_A750del	no alteration			Classical_like: E746_A750del			E746_A750del
+ccle_broad_2019	HEC1B_ENDOMETRIUM	HEC1B_ENDOMETRIUM	G12D	A864V	R682Q	Hydrolysis: G12D			G12D	R682Q	A864V
+ccle_broad_2019	TGBC11TKB_STOMACH	TGBC11TKB_STOMACH	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	OVK18_OVARY	OVK18_OVARY	A59G	no alteration	no alteration	Hybrid: A59G			A59G		
+ccle_broad_2019	HCC1588_LUNG	HCC1588_LUNG	G12D	no alteration	E204L	Hydrolysis: G12D			G12D	E204L	
+ccle_broad_2019	SNU213_PANCREAS	SNU213_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	HT115_LARGE_INTESTINE	HT115_LARGE_INTESTINE	no alteration	no alteration	R354Q					R354Q	
+ccle_broad_2019	JHUEM3_ENDOMETRIUM	JHUEM3_ENDOMETRIUM	D33E	no alteration	no alteration				D33E		
+ccle_broad_2019	SNU1033_LARGE_INTESTINE	SNU1033_LARGE_INTESTINE	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SNUC5_LARGE_INTESTINE	SNUC5_LARGE_INTESTINE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HCC1171_LUNG	HCC1171_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	SNUC4_LARGE_INTESTINE	SNUC4_LARGE_INTESTINE	no alteration	no alteration	D22N					D22N	
+ccle_broad_2019	GSU_STOMACH	GSU_STOMACH	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	KMS18_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS18_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	G469A		Class 2: G469A			G469A	
+ccle_broad_2019	JHOM2B_OVARY	JHOM2B_OVARY	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MDAMB231_BREAST	MDAMB231_BREAST	G13D	no alteration	G464V	Exchange: G13D	Class 2: G464V		G13D	G464V	
+ccle_broad_2019	OV90_OVARY	OV90_OVARY	no alteration	no alteration	N486_P490del					N486_P490del	
+ccle_broad_2019	RS411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RS411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	L815F	no alteration						L815F
+ccle_broad_2019	HCT15_LARGE_INTESTINE	HCT15_LARGE_INTESTINE	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	SW1463_LARGE_INTESTINE	SW1463_LARGE_INTESTINE	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	WM115_SKIN	WM115_SKIN	no alteration	no alteration	V600E, V600D		Class 1: V600E			V600D; V600E	
+ccle_broad_2019	CCK81_LARGE_INTESTINE	CCK81_LARGE_INTESTINE	no alteration	Y1069C, Q408R	S273N, R506G					R506G; S273N	Q408R; Y1069C
+ccle_broad_2019	SJSA1_BONE	SJSA1_BONE	Q61H	no alteration	no alteration	Hybrid: Q61H			Q61H		
+ccle_broad_2019	SKMES1_LUNG	SKMES1_LUNG	no alteration	R309G	no alteration						R309G
+ccle_broad_2019	COLO800_SKIN	COLO800_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	RL952_ENDOMETRIUM	RL952_ENDOMETRIUM	no alteration	A289V, G614S	P403Lfs*8					P403Lfs*8	A289V; G614S
+ccle_broad_2019	CALU6_LUNG	CALU6_LUNG	Q61K, Q61K	R309G	no alteration	Hybrid: Q61K			Q61K		R309G
+ccle_broad_2019	SKLU1_LUNG	SKLU1_LUNG	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SW900_LUNG	SW900_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	UACC62_SKIN	UACC62_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MFE319_ENDOMETRIUM	MFE319_ENDOMETRIUM	no alteration	no alteration	X478_splice, S727G					S727G; X478_splice	
+ccle_broad_2019	GOS3_CENTRAL_NERVOUS_SYSTEM	GOS3_CENTRAL_NERVOUS_SYSTEM	no alteration	D256G	no alteration						D256G
+ccle_broad_2019	PC14_LUNG	PC14_LUNG	no alteration	E746_A750del	no alteration			Classical_like: E746_A750del			E746_A750del
+ccle_broad_2019	KYSE410_OESOPHAGUS	KYSE410_OESOPHAGUS	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	PATU8902_PANCREAS	PATU8902_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	DANG_PANCREAS	DANG_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	NCIH460_LUNG	NCIH460_LUNG	Q61H	no alteration	no alteration	Hybrid: Q61H			Q61H		
+ccle_broad_2019	KYSE180_OESOPHAGUS	KYSE180_OESOPHAGUS	no alteration	no alteration	I326V					I326V	
+ccle_broad_2019	HUPT3_PANCREAS	HUPT3_PANCREAS	G12R	no alteration	no alteration	Hydrolysis: G12R			G12R		
+ccle_broad_2019	SH10TC_STOMACH	SH10TC_STOMACH	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	HCC2218_BREAST	HCC2218_BREAST	no alteration	no alteration	E296K					E296K	
+ccle_broad_2019	KMS26_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS26_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	D22N					D22N	
+ccle_broad_2019	KMS28BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS28BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	KNS60_CENTRAL_NERVOUS_SYSTEM	KNS60_CENTRAL_NERVOUS_SYSTEM	no alteration	V292L	no alteration						V292L
+ccle_broad_2019	KNS81_CENTRAL_NERVOUS_SYSTEM	KNS81_CENTRAL_NERVOUS_SYSTEM	no alteration	G598V	no alteration						G598V
+ccle_broad_2019	KPNSI9S_AUTONOMIC_GANGLIA	KPNSI9S_AUTONOMIC_GANGLIA	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	LU99_LUNG	LU99_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	KP3_PANCREAS	KP3_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	KHM1B_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KHM1B_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	KG1C_CENTRAL_NERVOUS_SYSTEM	KG1C_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	KMBC2_URINARY_TRACT	KMBC2_URINARY_TRACT	no alteration	no alteration	M650I					M650I	
+ccle_broad_2019	HUCCT1_BILIARY_TRACT	HUCCT1_BILIARY_TRACT	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	HEC108_ENDOMETRIUM	HEC108_ENDOMETRIUM	no alteration	I809V	no alteration						I809V
+ccle_broad_2019	HEC265_ENDOMETRIUM	HEC265_ENDOMETRIUM	no alteration	no alteration	P403Lfs*8					P403Lfs*8	
+ccle_broad_2019	CAL12T_LUNG	CAL12T_LUNG	no alteration	no alteration	G466V		Class 3: G466V			G466V	
+ccle_broad_2019	HEC6_ENDOMETRIUM	HEC6_ENDOMETRIUM	V160A	A289V	no alteration				V160A		A289V
+ccle_broad_2019	AM38_CENTRAL_NERVOUS_SYSTEM	AM38_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HEC50B_ENDOMETRIUM	HEC50B_ENDOMETRIUM	G12D	Y270*	no alteration	Hydrolysis: G12D			G12D		Y270*
+ccle_broad_2019	KP4_PANCREAS	KP4_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	U266B1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U266B1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	K601N		Class 2: K601N			K601N	
+ccle_broad_2019	HMC18_BREAST	HMC18_BREAST	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	KMM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	V9I	no alteration	no alteration				V9I		
+ccle_broad_2019	CORL23_LUNG	CORL23_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	MORCPR_LUNG	MORCPR_LUNG	G13C	no alteration	no alteration	Exchange: G13C			G13C		
+ccle_broad_2019	HPAFII_PANCREAS	HPAFII_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NCIH1568_LUNG	NCIH1568_LUNG	no alteration	D1127N	no alteration						D1127N
+ccle_broad_2019	A673_BONE	A673_BONE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	AU565_BREAST	AU565_BREAST	no alteration	R309G	no alteration						R309G
+ccle_broad_2019	COLO201_LARGE_INTESTINE	COLO201_LARGE_INTESTINE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	CAPAN1_PANCREAS	CAPAN1_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	NCIH358_LUNG	NCIH358_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	CFPAC1_PANCREAS	CFPAC1_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	NCIH1650_LUNG	NCIH1650_LUNG	no alteration	E746_A750del	no alteration			Classical_like: E746_A750del			E746_A750del
+ccle_broad_2019	NCIH1793_LUNG	NCIH1793_LUNG	no alteration	C311F	no alteration						C311F
+ccle_broad_2019	MDAMB361_BREAST	MDAMB361_BREAST	no alteration	T678M	V600E		Class 1: V600E			V600E	T678M
+ccle_broad_2019	MDAMB436_BREAST	MDAMB436_BREAST	no alteration	no alteration	G30_A33del					G30_A33del	
+ccle_broad_2019	PANC0213_PANCREAS	PANC0213_PANCREAS	Q61R	no alteration	no alteration	Hybrid: Q61R			Q61R		
+ccle_broad_2019	RDES_BONE	RDES_BONE	no alteration	M600V	G30_A33del					G30_A33del	M600V
+ccle_broad_2019	SW1271_LUNG	SW1271_LUNG	no alteration	no alteration	S683N					S683N	
+ccle_broad_2019	NCIH1792_LUNG	NCIH1792_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	GCT_SOFT_TISSUE	GCT_SOFT_TISSUE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SNU16_STOMACH	SNU16_STOMACH	G12D	no alteration	G30_A33del	Hydrolysis: G12D			G12D	G30_A33del	
+ccle_broad_2019	NMCG1_CENTRAL_NERVOUS_SYSTEM	NMCG1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	TEN_ENDOMETRIUM	TEN_ENDOMETRIUM	T74P	no alteration	no alteration				T74P		
+ccle_broad_2019	KYSE270_OESOPHAGUS	KYSE270_OESOPHAGUS	no alteration	L861Q	no alteration			Classical_like: L861Q			L861Q
+ccle_broad_2019	IALM_LUNG	IALM_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	DAUDI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DAUDI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	X38_splice, I187V	no alteration	no alteration				I187V; X38_splice		
+ccle_broad_2019	BXPC3_PANCREAS	BXPC3_PANCREAS	no alteration	no alteration	V487_P492delinsA					V487_P492delinsA	
+ccle_broad_2019	NCIH1355_LUNG	NCIH1355_LUNG	G13C	Q1159H	no alteration	Exchange: G13C			G13C		Q1159H
+ccle_broad_2019	HEC251_ENDOMETRIUM	HEC251_ENDOMETRIUM	R164*	K28T	no alteration				R164*		K28T
+ccle_broad_2019	RPMI7951_SKIN	RPMI7951_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HCC2108_LUNG	HCC2108_LUNG	Q61H, G13C	no alteration	no alteration	Exchange: G13C; Hybrid: Q61H			G13C; Q61H		
+ccle_broad_2019	COLO783_SKIN	COLO783_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HCC1359_LUNG	HCC1359_LUNG	no alteration	R23W	no alteration						R23W
+ccle_broad_2019	COV362_OVARY	COV362_OVARY	no alteration	H1124Q	no alteration						H1124Q
+ccle_broad_2019	WM983B_SKIN	WM983B_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	LS513_LARGE_INTESTINE	LS513_LARGE_INTESTINE	G12D	no alteration	E204L, E204V, E204*	Hydrolysis: G12D			G12D	E204*; E204L; E204V	
+ccle_broad_2019	FTC238_THYROID	FTC238_THYROID	no alteration	A1118T	no alteration						A1118T
+ccle_broad_2019	FTC133_THYROID	FTC133_THYROID	no alteration	A1118T	no alteration						A1118T
+ccle_broad_2019	NCIH1339_LUNG	NCIH1339_LUNG	G12R	no alteration	no alteration	Hydrolysis: G12R			G12R		
+ccle_broad_2019	WM793_SKIN	WM793_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MDAMB435S_SKIN	MDAMB435S_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	WM1799_SKIN	WM1799_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	WM88_SKIN	WM88_SKIN	no alteration	E758K	V600E		Class 1: V600E			V600E	E758K
+ccle_broad_2019	SW837_LARGE_INTESTINE	SW837_LARGE_INTESTINE	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	IGR1_SKIN	IGR1_SKIN	no alteration	no alteration	V600E, V600K, V600M		Class 1: V600E; Class 1: V600K			V600E; V600K; V600M	
+ccle_broad_2019	GP2D_LARGE_INTESTINE	GP2D_LARGE_INTESTINE	G12D	no alteration	T529A	Hydrolysis: G12D			G12D	T529A	
+ccle_broad_2019	OV7_OVARY	OV7_OVARY	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	HT55_LARGE_INTESTINE	HT55_LARGE_INTESTINE	no alteration	no alteration	N581Y					N581Y	
+ccle_broad_2019	MDST8_LARGE_INTESTINE	MDST8_LARGE_INTESTINE	no alteration	no alteration	V600E, V600K, V600M		Class 1: V600E; Class 1: V600K			V600E; V600K; V600M	
+ccle_broad_2019	SUIT2_PANCREAS	SUIT2_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SKHEP1_LIVER	SKHEP1_LIVER	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	OVCAR8_OVARY	OVCAR8_OVARY	P121H	no alteration	no alteration				P121H		
+ccle_broad_2019	NCIH2172_LUNG	NCIH2172_LUNG	no alteration	L858R, S1130G	no alteration			Classical_like: L858R			L858R; S1130G
+ccle_broad_2019	ISHIKAWAHERAKLIO02ER_ENDOMETRIUM	ISHIKAWAHERAKLIO02ER_ENDOMETRIUM	no alteration	R973Q	P403Lfs*8					P403Lfs*8	R973Q
+ccle_broad_2019	NCIH650_LUNG	NCIH650_LUNG	Q61L	no alteration	no alteration	Hybrid: Q61L			Q61L		
+ccle_broad_2019	SW1573_LUNG	SW1573_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	SKCO1_LARGE_INTESTINE	SKCO1_LARGE_INTESTINE	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	YAPC_PANCREAS	YAPC_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	SNU601_STOMACH	SNU601_STOMACH	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SNU668_STOMACH	SNU668_STOMACH	Q61K, Q61K	no alteration	no alteration	Hybrid: Q61K			Q61K		
+ccle_broad_2019	COLO775_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	COLO775_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	GRM_SKIN	GRM_SKIN	G12R	no alteration	I326V	Hydrolysis: G12R			G12R	I326V	
+ccle_broad_2019	SNU886_LIVER	SNU886_LIVER	no alteration	G239A	no alteration						G239A
+ccle_broad_2019	NCIH3255_LUNG	NCIH3255_LUNG	no alteration	L858R	no alteration			Classical_like: L858R			L858R
+ccle_broad_2019	SNU719_STOMACH	SNU719_STOMACH	no alteration	P20Q	no alteration						P20Q
+ccle_broad_2019	SNU81_LARGE_INTESTINE	SNU81_LARGE_INTESTINE	A146T	K28N	no alteration	Exchange: A146T			A146T		K28N
+ccle_broad_2019	A2058_SKIN	A2058_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HTK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HTK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12S, A59T	no alteration	no alteration	Hybrid: A59T; Hydrolysis: G12S			A59T; G12S		
+ccle_broad_2019	SNU1040_LARGE_INTESTINE	SNU1040_LARGE_INTESTINE	no alteration	no alteration	V120I, S76P					S76P; V120I	
+ccle_broad_2019	SNU175_LARGE_INTESTINE	SNU175_LARGE_INTESTINE	A59T	A864V	no alteration	Hybrid: A59T			A59T		A864V
+ccle_broad_2019	SNU407_LARGE_INTESTINE	SNU407_LARGE_INTESTINE	G12D	V292M, X984_splice	R726C	Hydrolysis: G12D			G12D	R726C	V292M; X984_splice
+ccle_broad_2019	KMS20_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS20_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12S	no alteration	no alteration	Hydrolysis: G12S			G12S		
+ccle_broad_2019	NCIH854_LUNG	NCIH854_LUNG	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SNU1105_CENTRAL_NERVOUS_SYSTEM	SNU1105_CENTRAL_NERVOUS_SYSTEM	no alteration	V742I	no alteration						V742I
+ccle_broad_2019	YD8_UPPER_AERODIGESTIVE_TRACT	YD8_UPPER_AERODIGESTIVE_TRACT	G138V	no alteration	no alteration				G138V		
+ccle_broad_2019	SNU410_PANCREAS	SNU410_PANCREAS	G12D	no alteration	D22N	Hydrolysis: G12D			G12D	D22N	
+ccle_broad_2019	SNU503_LARGE_INTESTINE	SNU503_LARGE_INTESTINE	no alteration	no alteration	D22N					D22N	
+ccle_broad_2019	SNU738_CENTRAL_NERVOUS_SYSTEM	SNU738_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	D22N					D22N	
+ccle_broad_2019	SNU869_BILIARY_TRACT	SNU869_BILIARY_TRACT	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SNU8_OVARY	SNU8_OVARY	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NCIH684_LIVER	NCIH684_LIVER	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	IGR39_SKIN	IGR39_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SUDHL8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	T599dup					T599dup	
+ccle_broad_2019	T3M4_PANCREAS	T3M4_PANCREAS	Q61H	no alteration	no alteration	Hybrid: Q61H			Q61H		
+ccle_broad_2019	COLO818_SKIN	COLO818_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	PK45H_PANCREAS	PK45H_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	HEC59_ENDOMETRIUM	HEC59_ENDOMETRIUM	no alteration	R531*	no alteration						R531*
+ccle_broad_2019	T3M10_LUNG	T3M10_LUNG	G12D	no alteration	I326V	Hydrolysis: G12D			G12D	I326V	
+ccle_broad_2019	NUGC2_STOMACH	NUGC2_STOMACH	T58I	no alteration	no alteration				T58I		
+ccle_broad_2019	CCFSTTG1_CENTRAL_NERVOUS_SYSTEM	CCFSTTG1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	R146Q					R146Q	
+ccle_broad_2019	NCIH660_PROSTATE	NCIH660_PROSTATE	no alteration	no alteration	E45D					E45D	
+ccle_broad_2019	SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	K117N	no alteration	no alteration	Exchange: K117N			K117N		
+ccle_broad_2019	HT144_SKIN	HT144_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SKMEL31_SKIN	SKMEL31_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HS939T_SKIN	HS939T_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	DV90_LUNG	DV90_LUNG	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	SNU1_STOMACH	SNU1_STOMACH	G12D	no alteration	A400V	Hydrolysis: G12D			G12D	A400V	
+ccle_broad_2019	HCC56_LARGE_INTESTINE	HCC56_LARGE_INTESTINE	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PANC0813_PANCREAS	PANC0813_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	PK1_PANCREAS	PK1_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NCIH23_LUNG	NCIH23_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	NCIH1373_LUNG	NCIH1373_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	PANC0504_PANCREAS	PANC0504_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	CI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	L485W					L485W	
+ccle_broad_2019	RCM1_LARGE_INTESTINE	RCM1_LARGE_INTESTINE	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	A101D_SKIN	A101D_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	NCIH1755_LUNG	NCIH1755_LUNG	no alteration	no alteration	G469A		Class 2: G469A			G469A	
+ccle_broad_2019	HS683_CENTRAL_NERVOUS_SYSTEM	HS683_CENTRAL_NERVOUS_SYSTEM	no alteration	A289D	no alteration						A289D
+ccle_broad_2019	RKO_LARGE_INTESTINE	RKO_LARGE_INTESTINE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MEG01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MEG01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	A1048V	no alteration						A1048V
+ccle_broad_2019	OC314_OVARY	OC314_OVARY	no alteration	no alteration	P403Lfs*8, A747V					A747V; P403Lfs*8	
+ccle_broad_2019	CAOV3_OVARY	CAOV3_OVARY	no alteration	R255Q	no alteration						R255Q
+ccle_broad_2019	MOLT4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	E513Rfs*55	no alteration						E513Rfs*55
+ccle_broad_2019	MIAPACA2_PANCREAS	MIAPACA2_PANCREAS	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	MCAS_OVARY	MCAS_OVARY	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	COLO829_SKIN	COLO829_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	CAPAN2_PANCREAS	CAPAN2_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	HS766T_PANCREAS	HS766T_PANCREAS	Q61H	no alteration	no alteration	Hybrid: Q61H			Q61H		
+ccle_broad_2019	A2780_OVARY	A2780_OVARY	no alteration	no alteration	V226M					V226M	
+ccle_broad_2019	SKMEL24_SKIN	SKMEL24_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	K029AX_SKIN	K029AX_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	PANC1005_PANCREAS	PANC1005_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	EVSAT_BREAST	EVSAT_BREAST	no alteration	E711K	no alteration						E711K
+ccle_broad_2019	HS695T_SKIN	HS695T_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	CHL1_SKIN	CHL1_SKIN	no alteration	V1011M	no alteration						V1011M
+ccle_broad_2019	LOUNH91_LUNG	LOUNH91_LUNG	no alteration	A755D, L747_P753delinsS	no alteration			Classical_like: L747_P753delinsS			A755D; L747_P753delinsS
+ccle_broad_2019	TOV21G_OVARY	TOV21G_OVARY	G13C	no alteration	no alteration	Exchange: G13C			G13C		
+ccle_broad_2019	SKMEL3_SKIN	SKMEL3_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	ASPC1_PANCREAS	ASPC1_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NCIH441_LUNG	NCIH441_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	NCIH2030_LUNG	NCIH2030_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	MALME3M_SKIN	MALME3M_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	DBTRG05MG_CENTRAL_NERVOUS_SYSTEM	DBTRG05MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HEYA8_OVARY	HEYA8_OVARY	G12D	no alteration	G464E	Hydrolysis: G12D	Class 2: G464E		G12D	G464E	
+ccle_broad_2019	NCIH2122_LUNG	NCIH2122_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	SW620_LARGE_INTESTINE	SW620_LARGE_INTESTINE	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	HCT116_LARGE_INTESTINE	HCT116_LARGE_INTESTINE	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	MM1S_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MM1S_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12A	G917R	no alteration	Hydrolysis: G12A			G12A		G917R
+ccle_broad_2019	L33_PANCREAS	L33_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	A549_LUNG	A549_LUNG	G12S	no alteration	no alteration	Hydrolysis: G12S			G12S		
+ccle_broad_2019	NCIH1975_LUNG	NCIH1975_LUNG	no alteration	T790M, L858R	no alteration			T790M_like_3S: L858R, T790M			L858R, T790M
+ccle_broad_2019	COLO679_SKIN	COLO679_SKIN	no alteration	S306L	V600E		Class 1: V600E			V600E	S306L
+ccle_broad_2019	KP2_PANCREAS	KP2_PANCREAS	G12R	no alteration	no alteration	Hydrolysis: G12R			G12R		
+ccle_broad_2019	PANC0403_PANCREAS	PANC0403_PANCREAS	G12D	no alteration	X710_splice	Hydrolysis: G12D			G12D	X710_splice	
+ccle_broad_2019	MELHO_SKIN	MELHO_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	G361_SKIN	G361_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	NCIH647_LUNG	NCIH647_LUNG	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	HCC44_LUNG	HCC44_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	KYSE70_OESOPHAGUS	KYSE70_OESOPHAGUS	no alteration	Y69Mfs*11	no alteration						Y69Mfs*11
+ccle_broad_2019	EN_ENDOMETRIUM	EN_ENDOMETRIUM	no alteration	N234D	I326V					I326V	N234D
+ccle_broad_2019	PK59_PANCREAS	PK59_PANCREAS	G12D	W1157C	no alteration	Hydrolysis: G12D			G12D		W1157C
+ccle_broad_2019	COLO741_SKIN	COLO741_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	LS411N_LARGE_INTESTINE	LS411N_LARGE_INTESTINE	no alteration	Q486E, E734*, T940A	V600E		Class 1: V600E			V600E	E734*; Q486E; T940A
+ccle_broad_2019	HEC1A_ENDOMETRIUM	HEC1A_ENDOMETRIUM	G12D	S1025N	R682Q	Hydrolysis: G12D			G12D	R682Q	S1025N
+ccle_broad_2019	TE1_OESOPHAGUS	TE1_OESOPHAGUS	no alteration	no alteration	I326V					I326V	
+ccle_broad_2019	RERFLCAD1_LUNG	RERFLCAD1_LUNG	G12A	no alteration	R435S	Hydrolysis: G12A			G12A	R435S	
+ccle_broad_2019	NCIH1155_LUNG	NCIH1155_LUNG	Q61H	no alteration	no alteration	Hybrid: Q61H			Q61H		
+ccle_broad_2019	AGS_STOMACH	AGS_STOMACH	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	QGP1_PANCREAS	QGP1_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	LOVO_LARGE_INTESTINE	LOVO_LARGE_INTESTINE	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	SKMEL30_SKIN	SKMEL30_SKIN	no alteration	no alteration	D287H, E275K					D287H; E275K	
+ccle_broad_2019	22RV1_PROSTATE	22RV1_PROSTATE	no alteration	no alteration	L597R		Class 2: L597R			L597R	
+ccle_broad_2019	C32_SKIN	C32_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	PANC0327_PANCREAS	PANC0327_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	RPMI8226_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI8226_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12A	T751I	no alteration	Hydrolysis: G12A			G12A		T751I
+ccle_broad_2019	ES2_OVARY	ES2_OVARY	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	NCIH1395_LUNG	NCIH1395_LUNG	no alteration	no alteration	G469A		Class 2: G469A			G469A	
+ccle_broad_2019	LS1034_LARGE_INTESTINE	LS1034_LARGE_INTESTINE	A146T	no alteration	no alteration	Exchange: A146T			A146T		
+ccle_broad_2019	SW48_LARGE_INTESTINE	SW48_LARGE_INTESTINE	no alteration	G719S	no alteration			PACC: G719S			G719S
+ccle_broad_2019	LS180_LARGE_INTESTINE	LS180_LARGE_INTESTINE	G12D	no alteration	D211G	Hydrolysis: G12D			G12D	D211G	
+ccle_broad_2019	SW403_LARGE_INTESTINE	SW403_LARGE_INTESTINE	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	NCIH747_LARGE_INTESTINE	NCIH747_LARGE_INTESTINE	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	SW1417_LARGE_INTESTINE	SW1417_LARGE_INTESTINE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SW948_LARGE_INTESTINE	SW948_LARGE_INTESTINE	Q61L	no alteration	no alteration	Hybrid: Q61L			Q61L		
+ccle_broad_2019	MDAMB415_BREAST	MDAMB415_BREAST	no alteration	no alteration	P74A					P74A	
+ccle_broad_2019	A375_SKIN	A375_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HT29_LARGE_INTESTINE	HT29_LARGE_INTESTINE	no alteration	no alteration	V600E, T119S		Class 1: V600E			T119S; V600E	
+ccle_broad_2019	HS294T_SKIN	HS294T_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SKMEL5_SKIN	SKMEL5_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	TCCPAN2_PANCREAS	TCCPAN2_PANCREAS	G12R	no alteration	no alteration	Hydrolysis: G12R			G12R		
+ccle_broad_2019	WM2664_SKIN	WM2664_SKIN	no alteration	no alteration	V600E, V600D		Class 1: V600E			V600D; V600E	
+ccle_broad_2019	KM12_LARGE_INTESTINE	KM12_LARGE_INTESTINE	no alteration	G573*	A712T, A404Cfs*9					A404Cfs*9; A712T	G573*
+ccle_broad_2019	T84_LARGE_INTESTINE	T84_LARGE_INTESTINE	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	CALU1_LUNG	CALU1_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	LOXIMVI_SKIN	LOXIMVI_SKIN	no alteration	no alteration	V600E, I208V		Class 1: V600E			I208V; V600E	
+ccle_broad_2019	NCIH2444_LUNG	NCIH2444_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	UACC257_SKIN	UACC257_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	KYSE510_OESOPHAGUS	KYSE510_OESOPHAGUS	no alteration	A702D	no alteration						A702D
+ccle_broad_2019	HUPT4_PANCREAS	HUPT4_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PSN1_PANCREAS	PSN1_PANCREAS	G12R	no alteration	no alteration	Hydrolysis: G12R			G12R		
+ccle_broad_2019	PATU8988T_PANCREAS	PATU8988T_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	IGR37_SKIN	IGR37_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	LN428_CENTRAL_NERVOUS_SYSTEM	LN428_CENTRAL_NERVOUS_SYSTEM	no alteration	P373Q	no alteration						P373Q
+ccle_broad_2019	LN464_CENTRAL_NERVOUS_SYSTEM	LN464_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	A1207_CENTRAL_NERVOUS_SYSTEM	A1207_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HCC364_LUNG	HCC364_LUNG	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	IOMMLEE_CENTRAL_NERVOUS_SYSTEM	IOMMLEE_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HCC827GR5_LUNG	HCC827GR5_LUNG	no alteration	E746_A750del	no alteration			Classical_like: E746_A750del			E746_A750del
+ccle_broad_2019	MKN7_STOMACH	MKN7_STOMACH	no alteration	R309G	no alteration						R309G
+ccle_broad_2019	NCIH1385_LUNG	NCIH1385_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	HCC827_LUNG	HCC827_LUNG	no alteration	E746_A750del	no alteration			Classical_like: E746_A750del			E746_A750del
+ccle_broad_2019	TT_THYROID	TT_THYROID	no alteration	K327E	no alteration						K327E
+ccle_broad_2019	8305C_THYROID	8305C_THYROID	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	KASUMI2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KASUMI2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	V14L	no alteration	no alteration	Exchange: V14L			V14L		
+ccle_broad_2019	DND41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DND41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	K185Nfs*4, X38_splice	Q71*	no alteration				K185Nfs*4; X38_splice		Q71*
+ccle_broad_2019	JEKO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JEKO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	D22N					D22N	
+ccle_broad_2019	NUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A146T	no alteration	no alteration	Exchange: A146T			A146T		
+ccle_broad_2019	CL40_LARGE_INTESTINE	CL40_LARGE_INTESTINE	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SUPHD1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUPHD1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	S811F	no alteration			Classical_like: S811F			S811F
+ccle_broad_2019	SUDHL10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	I171M	no alteration	no alteration				I171M		
+ccle_broad_2019	COLO678_LARGE_INTESTINE	COLO678_LARGE_INTESTINE	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NALM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	R1068*, A1076T	no alteration						A1076T; R1068*
+ccle_broad_2019	PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PL21_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A146V	no alteration	no alteration	Exchange: A146V			A146V		
+ccle_broad_2019	OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIAML5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	X38_splice	no alteration	no alteration				X38_splice		
+ccle_broad_2019	L540_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L540_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	T1085N	no alteration						T1085N
+ccle_broad_2019	MHHCALL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHHCALL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L23R	no alteration	no alteration	Exchange: L23R			L23R		
+ccle_broad_2019	KOPN8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KOPN8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NCIH2009_LUNG	NCIH2009_LUNG	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	HCC4006_LUNG	HCC4006_LUNG	no alteration	L747_E749del	no alteration			Classical_like: L747_E749del			L747_E749del
+ccle_broad_2019	SHP77_LUNG	SHP77_LUNG	G12V	Q701R	no alteration	Hydrolysis: G12V			G12V		Q701R
+ccle_broad_2019	NB1_AUTONOMIC_GANGLIA	NB1_AUTONOMIC_GANGLIA	no alteration	no alteration	I326V					I326V	
+ccle_broad_2019	ZR7530_BREAST	ZR7530_BREAST	no alteration	no alteration	I326T					I326T	
+ccle_broad_2019	NCIH1944_LUNG	NCIH1944_LUNG	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	NCIH2405_LUNG	NCIH2405_LUNG	no alteration	no alteration	L485_P490delinsF, P490Yfs*11, L485Yfs*14					L485_P490delinsF; L485Yfs*14; P490Yfs*11	
+ccle_broad_2019	P12ICHIKAWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P12ICHIKAWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	I326V					I326V	
+ccle_broad_2019	JVM3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JVM3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	K601N		Class 2: K601N			K601N	
+ccle_broad_2019	NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NOMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G13D	A1048V	no alteration	Exchange: G13D			G13D		A1048V
+ccle_broad_2019	NCIH727_LUNG	NCIH727_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	HCC2935_LUNG	HCC2935_LUNG	no alteration	E746Ifs*16, L747Ffs*14	no alteration						E746Ifs*16; L747Ffs*14
+ccle_broad_2019	MKN45_STOMACH	MKN45_STOMACH	no alteration	A1048V	no alteration						A1048V
+ccle_broad_2019	8505C_THYROID	8505C_THYROID	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	KCL22_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KCL22_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	D22N					D22N	
+ccle_broad_2019	CAL62_THYROID	CAL62_THYROID	G12R	no alteration	no alteration	Hydrolysis: G12R			G12R		
+ccle_broad_2019	JURKAT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JURKAT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	R451C	A728V					A728V	R451C
+ccle_broad_2019	NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NB4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A18D	no alteration	no alteration	Exchange: A18D			A18D		
+ccle_broad_2019	LCLC97TM1_LUNG	LCLC97TM1_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	BHT101_THYROID	BHT101_THYROID	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	KMH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	W1157C	no alteration						W1157C
+ccle_broad_2019	NUDUL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NUDUL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	D119N	no alteration	no alteration	Exchange: D119N			D119N		
+ccle_broad_2019	KARPAS620_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS620_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SIGM5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SIGM5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	BCPAP_THYROID	BCPAP_THYROID	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	639V_URINARY_TRACT	639V_URINARY_TRACT	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	CL11_LARGE_INTESTINE	CL11_LARGE_INTESTINE	Q61H, V14I	no alteration	no alteration	Exchange: V14I; Hybrid: Q61H			Q61H; V14I		
+ccle_broad_2019	CL34_LARGE_INTESTINE	CL34_LARGE_INTESTINE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	RCHACV_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RCHACV_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	V14I	R677C	no alteration	Exchange: V14I			V14I		R677C
+ccle_broad_2019	AMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	AMO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A146T	K209N	no alteration	Exchange: A146T			A146T		K209N
+ccle_broad_2019	JHUEM7_ENDOMETRIUM	JHUEM7_ENDOMETRIUM	no alteration	A419V, K28Q, E697K	K499T					K499T	A419V; E697K; K28Q
+ccle_broad_2019	KP1NL_PANCREAS	KP1NL_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	KP1N_PANCREAS	KP1N_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SNUC2B_LARGE_INTESTINE	SNUC2B_LARGE_INTESTINE	G12D	R165Q	no alteration	Hydrolysis: G12D			G12D		R165Q
+ccle_broad_2019	HRT18_LARGE_INTESTINE	HRT18_LARGE_INTESTINE	G13D, P110H	no alteration	no alteration	Exchange: G13D			G13D; P110H		
+ccle_broad_2019	HOP62_LUNG	HOP62_LUNG	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	OVCAR5_OVARY	OVCAR5_OVARY	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	SF268_CENTRAL_NERVOUS_SYSTEM	SF268_CENTRAL_NERVOUS_SYSTEM	no alteration	A289V	no alteration						A289V
+ccle_broad_2019	MUTZ3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MUTZ3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G10dup	no alteration	no alteration				G10dup		
+ccle_broad_2019	A427_LUNG	A427_LUNG	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	HCC461_LUNG	HCC461_LUNG	G12D	Q1174R	no alteration	Hydrolysis: G12D			G12D		Q1174R
+ccle_broad_2019	HCC515_LUNG	HCC515_LUNG	G13D	no alteration	no alteration	Exchange: G13D			G13D		
+ccle_broad_2019	NCIH2887_LUNG	NCIH2887_LUNG	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PC9_LUNG	PC9_LUNG	no alteration	E746_A750del	no alteration			Classical_like: E746_A750del			E746_A750del
+ccle_broad_2019	BICR10_UPPER_AERODIGESTIVE_TRACT	BICR10_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	X710_splice					X710_splice	
+ccle_broad_2019	SAT_UPPER_AERODIGESTIVE_TRACT	SAT_UPPER_AERODIGESTIVE_TRACT	no alteration	G312E	no alteration						G312E
+ccle_broad_2019	KYAE1_OESOPHAGUS	KYAE1_OESOPHAGUS	no alteration	A1048V	no alteration						A1048V
+ccle_broad_2019	KYSE220_OESOPHAGUS	KYSE220_OESOPHAGUS	no alteration	no alteration	C194G					C194G	
+ccle_broad_2019	SKGT4_OESOPHAGUS	SKGT4_OESOPHAGUS	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	KMOE2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMOE2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	EB3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EB3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	E866D	no alteration						E866D
+ccle_broad_2019	HS445_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HS445_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	R165W	no alteration						R165W
+ccle_broad_2019	GRST_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GRST_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	K185Nfs*4	C523R	D361G				K185Nfs*4	D361G	C523R
+ccle_broad_2019	KARPAS45_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS45_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	L76P	no alteration						L76P
+ccle_broad_2019	WIL2NS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	WIL2NS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A146T	no alteration	no alteration	Exchange: A146T			A146T		
+ccle_broad_2019	WSUNHL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	WSUNHL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	A404Cfs*9					A404Cfs*9	
+ccle_broad_2019	HUO9_BONE	HUO9_BONE	no alteration	D191Y	no alteration						D191Y
+ccle_broad_2019	EGI1_BILIARY_TRACT	EGI1_BILIARY_TRACT	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	TGBC1TKB_BILIARY_TRACT	TGBC1TKB_BILIARY_TRACT	no alteration	L883F	no alteration						L883F
+ccle_broad_2019	TGBC24TKB_BILIARY_TRACT	TGBC24TKB_BILIARY_TRACT	no alteration	no alteration	V645I					V645I	
+ccle_broad_2019	GP5D_LARGE_INTESTINE	GP5D_LARGE_INTESTINE	G12D	no alteration	T529A	Hydrolysis: G12D			G12D	T529A	
+ccle_broad_2019	HCC2998_LARGE_INTESTINE	HCC2998_LARGE_INTESTINE	A146T	no alteration	no alteration	Exchange: A146T			A146T		
+ccle_broad_2019	EMCBAC2_LUNG	EMCBAC2_LUNG	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	NCIH1993_LUNG	NCIH1993_LUNG	no alteration	R309G	no alteration						R309G
+ccle_broad_2019	ISTSL2_LUNG	ISTSL2_LUNG	no alteration	no alteration	X203_splice					X203_splice	
+ccle_broad_2019	MS1_LUNG	MS1_LUNG	no alteration	E257D	no alteration						E257D
+ccle_broad_2019	KNS81FD_CENTRAL_NERVOUS_SYSTEM	KNS81FD_CENTRAL_NERVOUS_SYSTEM	no alteration	G598V	no alteration						G598V
+ccle_broad_2019	LAN6_AUTONOMIC_GANGLIA	LAN6_AUTONOMIC_GANGLIA	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	MZ1PC_PANCREAS	MZ1PC_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PL4_PANCREAS	PL4_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	CP50MELB_SKIN	CP50MELB_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	GMEL_SKIN	GMEL_SKIN	no alteration	no alteration	V600E, G759*		Class 1: V600E			G759*; V600E	
+ccle_broad_2019	HMVII_SKIN	HMVII_SKIN	no alteration	no alteration	G469V		Class 2: G469V			G469V	
+ccle_broad_2019	ISTMEL1_SKIN	ISTMEL1_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MMACSF_SKIN	MMACSF_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MZ2MEL_SKIN	MZ2MEL_SKIN	no alteration	F961L	no alteration						F961L
+ccle_broad_2019	MZ7MEL_SKIN	MZ7MEL_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	WM1552C_SKIN	WM1552C_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	WM278_SKIN	WM278_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	WM35_SKIN	WM35_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	A388_SKIN	A388_SKIN	no alteration	R832C	no alteration						R832C
+ccle_broad_2019	SW872_SOFT_TISSUE	SW872_SOFT_TISSUE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	SW982_SOFT_TISSUE	SW982_SOFT_TISSUE	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	IHH4_THYROID	IHH4_THYROID	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	K5_THYROID	K5_THYROID	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	C33A_CERVIX	C33A_CERVIX	no alteration	X950_splice	A115V					A115V	X950_splice
+ccle_broad_2019	SISO_CERVIX	SISO_CERVIX	G12D, K185Nfs*4	C523R	D361G	Hydrolysis: G12D			G12D; K185Nfs*4	D361G	C523R
+ccle_broad_2019	SW756_CERVIX	SW756_CERVIX	G12C	no alteration	no alteration	Hydrolysis: G12C			G12C		
+ccle_broad_2019	HEC1_ENDOMETRIUM	HEC1_ENDOMETRIUM	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	NTERA2CLD1_TESTIS	NTERA2CLD1_TESTIS	no alteration	R309G	no alteration						R309G
+ccle_broad_2019	BC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	R108K	no alteration						R108K
+ccle_broad_2019	CP67MEL_SKIN	CP67MEL_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HS633T_SOFT_TISSUE	HS633T_SOFT_TISSUE	A146P	no alteration	no alteration	Exchange: A146P			A146P		
+ccle_broad_2019	HEY_OVARY	HEY_OVARY	G12D	no alteration	G464E	Hydrolysis: G12D	Class 2: G464E		G12D	G464E	
+ccle_broad_2019	K2_SKIN	K2_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	YMB1E_BREAST	YMB1E_BREAST	K117N	no alteration	no alteration	Exchange: K117N			K117N		
+ccle_broad_2019	VMRCMELG_SKIN	VMRCMELG_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	ML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A146T	no alteration	no alteration	Exchange: A146T			A146T		
+ccle_broad_2019	CCRFCEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CCRFCEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12D	A1118T	no alteration	Hydrolysis: G12D			G12D		A1118T
+ccle_broad_2019	LN405_CENTRAL_NERVOUS_SYSTEM	LN405_CENTRAL_NERVOUS_SYSTEM	no alteration	L62R	no alteration						L62R
+ccle_broad_2019	451LU_SKIN	451LU_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	M14_SKIN	M14_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HTCC3_THYROID	HTCC3_THYROID	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HELA_CERVIX	HELA_CERVIX	no alteration	I646L	no alteration						I646L
+ccle_broad_2019	MCC13_SKIN	MCC13_SKIN	no alteration	P192S, V336M	no alteration						P192S; V336M
+ccle_broad_2019	GEO_LARGE_INTESTINE	GEO_LARGE_INTESTINE	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	C125PM_LARGE_INTESTINE	C125PM_LARGE_INTESTINE	K117N	no alteration	no alteration	Exchange: K117N			K117N		
+ccle_broad_2019	C80_LARGE_INTESTINE	C80_LARGE_INTESTINE	A146V	no alteration	no alteration	Exchange: A146V			A146V		
+ccle_broad_2019	C84_LARGE_INTESTINE	C84_LARGE_INTESTINE	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	CHLA9_BONE	CHLA9_BONE	no alteration	A1076T	no alteration						A1076T
+ccle_broad_2019	COLO794_SKIN	COLO794_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	HKA1_SKIN	HKA1_SKIN	G12S	no alteration	I326V	Hydrolysis: G12S			G12S	I326V	
+ccle_broad_2019	HMY1_SKIN	HMY1_SKIN	no alteration	E134*	V600E		Class 1: V600E			V600E	E134*
+ccle_broad_2019	JOPACA1_PANCREAS	JOPACA1_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	KHYG_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KHYG_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	MM127_SKIN	MM127_SKIN	no alteration	P386del	G464E, E451K		Class 2: G464E			E451K; G464E	P386del
+ccle_broad_2019	MM370_SKIN	MM370_SKIN	no alteration	I351V, R748K	V600E		Class 1: V600E			V600E	I351V; R748K
+ccle_broad_2019	MM383_SKIN	MM383_SKIN	no alteration	P1098S	V600E		Class 1: V600E			V600E	P1098S
+ccle_broad_2019	MM386_SKIN	MM386_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MM426_SKIN	MM426_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	PACADD119_PANCREAS	PACADD119_PANCREAS	G12A	no alteration	no alteration	Hydrolysis: G12A			G12A		
+ccle_broad_2019	PACADD135_PANCREAS	PACADD135_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PACADD161_PANCREAS	PACADD161_PANCREAS	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	PACADD188_PANCREAS	PACADD188_PANCREAS	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SEKI_SKIN	SEKI_SKIN	no alteration	K852R	V600E		Class 1: V600E			V600E	K852R
+ccle_broad_2019	SUM229PE_BREAST	SUM229PE_BREAST	G12D	no alteration	no alteration	Hydrolysis: G12D			G12D		
+ccle_broad_2019	SW626_OVARY	SW626_OVARY	G12V	no alteration	no alteration	Hydrolysis: G12V			G12V		
+ccle_broad_2019	ACN_AUTONOMIC_GANGLIA	ACN_AUTONOMIC_GANGLIA	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	MS1_SKIN	MS1_SKIN	no alteration	E257D	no alteration						E257D
+ccle_broad_2019	NCIH820_LUNG	NCIH820_LUNG	no alteration	T790M	no alteration			T790M_like_3S: T790M			T790M
+ccle_broad_2019	JHU028_LUNG	JHU028_LUNG	G12S	no alteration	no alteration	Hydrolysis: G12S			G12S		
+ccle_broad_2019	M00921_SKIN	M00921_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	M1203273_SKIN	M1203273_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	M980513_SKIN	M980513_SKIN	no alteration	no alteration	V600E		Class 1: V600E			V600E	
+ccle_broad_2019	NCIBL1395_MATCHED_NORMAL_TISSUE	NCIBL1395_MATCHED_NORMAL_TISSUE	no alteration	no alteration	G469A		Class 2: G469A			G469A	
+ccle_broad_2019	DMS53_LUNG	DMS53_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1694_LUNG	NCIH1694_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	P3HR1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P3HR1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUT78_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HUT78_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HOS_BONE	HOS_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUNS1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HUNS1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	AML193_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	AML193_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1184_LUNG	NCIH1184_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC2157_BREAST	HCC2157_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU449_LIVER	SNU449_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH28_PLEURA	NCIH28_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHOS4_OVARY	JHOS4_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RMUGS_OVARY	RMUGS_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KLE_ENDOMETRIUM	KLE_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS895T_FIBROBLAST	HS895T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN229_CENTRAL_NERVOUS_SYSTEM	LN229_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P31FUJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NH6_AUTONOMIC_GANGLIA	NH6_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	SF126_CENTRAL_NERVOUS_SYSTEM	SF126_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	OUMS27_BONE	OUMS27_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS940T_FIBROBLAST	HS940T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS611T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HS611T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RERFGC1B_STOMACH	RERFGC1B_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	HT1080_SOFT_TISSUE	HT1080_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COV318_OVARY	COV318_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2085_LUNG	NCIH2085_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH510_LUNG	NCIH510_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAKI1_KIDNEY	CAKI1_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2066_LUNG	NCIH2066_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1341_LUNG	NCIH1341_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2029_LUNG	NCIH2029_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	C3A_LIVER	C3A_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS746T_STOMACH	HS746T_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS739T_FIBROBLAST	HS739T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HEC151_ENDOMETRIUM	HEC151_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	MSTO211H_PLEURA	MSTO211H_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	RAJI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RAJI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHH7_LIVER	JHH7_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUT102_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HUT102_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	5637_URINARY_TRACT	5637_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	MDAMB175VII_BREAST	MDAMB175VII_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUPB15_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUPB15_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BECKER_CENTRAL_NERVOUS_SYSTEM	BECKER_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW1783_CENTRAL_NERVOUS_SYSTEM	SW1783_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	ISTMES1_PLEURA	ISTMES1_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2342_LUNG	NCIH2342_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	EBC1_LUNG	EBC1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	T173_FIBROBLAST	T173_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH322_LUNG	NCIH322_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS618T_FIBROBLAST	HS618T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS870T_FIBROBLAST	HS870T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS706T_BONE	HS706T_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	T47D_BREAST	T47D_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS742T_FIBROBLAST	HS742T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	BICR56_UPPER_AERODIGESTIVE_TRACT	BICR56_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	BICR16_UPPER_AERODIGESTIVE_TRACT	BICR16_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE10_OESOPHAGUS	TE10_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	BICR6_UPPER_AERODIGESTIVE_TRACT	BICR6_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	KPL1_BREAST	KPL1_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	CGTHW1_THYROID	CGTHW1_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	TUHR4TKB_KIDNEY	TUHR4TKB_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCC10RGB_KIDNEY	RCC10RGB_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHOM1_OVARY	JHOM1_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE6_OESOPHAGUS	TE6_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHOC5_OVARY	JHOC5_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	ACCMESO1_PLEURA	ACCMESO1_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	BL41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BL41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1214_UPPER_AERODIGESTIVE_TRACT	SNU1214_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL105_LUNG	CORL105_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LMSU_STOMACH	LMSU_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	OSRC2_KIDNEY	OSRC2_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUH6_LIVER	HUH6_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	CJM_SKIN	CJM_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	BICR22_UPPER_AERODIGESTIVE_TRACT	BICR22_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SHSY5Y_AUTONOMIC_GANGLIA	SHSY5Y_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	TM31_CENTRAL_NERVOUS_SYSTEM	TM31_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1272_KIDNEY	SNU1272_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KPNRTBM1_AUTONOMIC_GANGLIA	KPNRTBM1_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE4_OESOPHAGUS	TE4_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	PCM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PCM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ECC10_STOMACH	ECC10_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	TUHR14TKB_KIDNEY	TUHR14TKB_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	YD15_SALIVARY_GLAND	YD15_SALIVARY_GLAND	no alteration	no alteration	no alteration						
+ccle_broad_2019	UBLC1_URINARY_TRACT	UBLC1_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	ECGI10_OESOPHAGUS	ECGI10_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU761_LIVER	SNU761_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1915_LUNG	NCIH1915_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU324_PANCREAS	SNU324_PANCREAS	no alteration	no alteration	no alteration						
+ccle_broad_2019	YD10B_UPPER_AERODIGESTIVE_TRACT	YD10B_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	TUHR10TKB_KIDNEY	TUHR10TKB_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	VMRCLCP_LUNG	VMRCLCP_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1077_ENDOMETRIUM	SNU1077_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE14_OESOPHAGUS	TE14_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE8_OESOPHAGUS	TE8_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU520_STOMACH	SNU520_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	LI7_LIVER	LI7_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH838_LUNG	NCIH838_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU119_OVARY	SNU119_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	GSS_STOMACH	GSS_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	TALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	U138MG_CENTRAL_NERVOUS_SYSTEM	U138MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU620_STOMACH	SNU620_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	ECC12_STOMACH	ECC12_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVTOKO_OVARY	OVTOKO_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVCAR4_OVARY	OVCAR4_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HLF_LIVER	HLF_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	SF295_CENTRAL_NERVOUS_SYSTEM	SF295_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHH4_LIVER	JHH4_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	OE33_OESOPHAGUS	OE33_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHH1_LIVER	JHH1_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2228_LUNG	NCIH2228_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	RERFLCAI_LUNG	RERFLCAI_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH520_LUNG	NCIH520_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHH5_LIVER	JHH5_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	FU97_STOMACH	FU97_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1963_LUNG	NCIH1963_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	J82_URINARY_TRACT	J82_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC15_LUNG	HCC15_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	M059K_CENTRAL_NERVOUS_SYSTEM	M059K_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	MFE280_ENDOMETRIUM	MFE280_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	MFE296_ENDOMETRIUM	MFE296_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	GI1_CENTRAL_NERVOUS_SYSTEM	GI1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	A204_SOFT_TISSUE	A204_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH810_LUNG	NCIH810_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	RERFLCMS_LUNG	RERFLCMS_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	L1236_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L1236_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KYSE140_OESOPHAGUS	KYSE140_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	EFE184_ENDOMETRIUM	EFE184_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	GCIY_STOMACH	GCIY_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAOV4_OVARY	CAOV4_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMS21BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS21BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMS27_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS27_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KO52_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KO52_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMS34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MKN1_STOMACH	MKN1_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	MKN74_STOMACH	MKN74_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCO2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NCO2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HSC2_UPPER_AERODIGESTIVE_TRACT	HSC2_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUH7_LIVER	HUH7_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMRC20_KIDNEY	KMRC20_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KIJK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	A4FUK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A4FUK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KALS1_CENTRAL_NERVOUS_SYSTEM	KALS1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HEL9217_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HEL9217_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUH28_BILIARY_TRACT	HUH28_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CMK115_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CMK115_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	THP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	A3KAW_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	A3KAW_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNSH_AUTONOMIC_GANGLIA	SKNSH_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1954_BREAST	HCC1954_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAMA1_BREAST	CAMA1_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HSC3_UPPER_AERODIGESTIVE_TRACT	HSC3_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HSC4_UPPER_AERODIGESTIVE_TRACT	HSC4_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMS11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KE39_STOMACH	KE39_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	COV504_OVARY	COV504_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KE97_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KE97_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	VMRCRCW_KIDNEY	VMRCRCW_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HGC27_STOMACH	HGC27_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	LUDLU1_LUNG	LUDLU1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUG1N_STOMACH	HUG1N_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	NUGC4_STOMACH	NUGC4_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAS1_CENTRAL_NERVOUS_SYSTEM	CAS1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HARA_LUNG	HARA_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKOV3_OVARY	SKOV3_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	MC116_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MC116_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CA46_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CA46_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	A498_KIDNEY	A498_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	BCP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BCP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1563_LUNG	NCIH1563_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NIHOVCAR3_OVARY	NIHOVCAR3_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1437_LUNG	NCIH1437_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	KNS62_LUNG	KNS62_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS578T_BREAST	HS578T_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	BT20_BREAST	BT20_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU182_LIVER	SNU182_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNMC_BONE	SKNMC_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	FADU_UPPER_AERODIGESTIVE_TRACT	FADU_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SJRH30_SOFT_TISSUE	SJRH30_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	DB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL27_UPPER_AERODIGESTIVE_TRACT	CAL27_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	MESSA_SOFT_TISSUE	MESSA_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKBR3_BREAST	SKBR3_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH82_LUNG	NCIH82_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIN87_STOMACH	NCIN87_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	U2OS_BONE	U2OS_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	H4_CENTRAL_NERVOUS_SYSTEM	H4_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	GDM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GDM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1143_BREAST	HCC1143_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	T24_URINARY_TRACT	T24_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	G401_SOFT_TISSUE	G401_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1937_BREAST	HCC1937_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1569_BREAST	HCC1569_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCUM1_STOMACH	OCUM1_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SAOS2_BONE	SAOS2_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	D283MED_CENTRAL_NERVOUS_SYSTEM	D283MED_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCC9_UPPER_AERODIGESTIVE_TRACT	SCC9_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1395_BREAST	HCC1395_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE9_OESOPHAGUS	TE9_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	KNS42_CENTRAL_NERVOUS_SYSTEM	KNS42_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	KYSE520_OESOPHAGUS	KYSE520_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHUEM1_ENDOMETRIUM	JHUEM1_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	YH13_CENTRAL_NERVOUS_SYSTEM	YH13_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2052_PLEURA	NCIH2052_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	EB2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EB2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNFI_AUTONOMIC_GANGLIA	SKNFI_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNAS_AUTONOMIC_GANGLIA	SKNAS_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	GA10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GA10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU398_LIVER	SNU398_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU423_LIVER	SNU423_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCC4_UPPER_AERODIGESTIVE_TRACT	SCC4_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	EB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1187_BREAST	HCC1187_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU387_LIVER	SNU387_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	HT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MJ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	C2BBE1_LARGE_INTESTINE	C2BBE1_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKES1_BONE	SKES1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EPLC272H_LUNG	EPLC272H_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU5_STOMACH	SNU5_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU475_LIVER	SNU475_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC95_LUNG	HCC95_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	253J_URINARY_TRACT	253J_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1438_LUNG	HCC1438_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	253JBV_URINARY_TRACT	253JBV_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1066_UPPER_AERODIGESTIVE_TRACT	SNU1066_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1041_UPPER_AERODIGESTIVE_TRACT	SNU1041_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	BICR31_UPPER_AERODIGESTIVE_TRACT	BICR31_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO792_SKIN	COLO792_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	COV434_OVARY	COV434_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2110_LUNG	NCIH2110_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHAGOK1_LUNG	CHAGOK1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	DMS454_LUNG	DMS454_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL47_LUNG	CORL47_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	DMS273_LUNG	DMS273_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL311_LUNG	CORL311_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2286_LUNG	NCIH2286_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	A704_KIDNEY	A704_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	MEWO_SKIN	MEWO_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2081_LUNG	NCIH2081_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS255T_FIBROBLAST	HS255T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1092_LUNG	NCIH1092_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHH6_LIVER	JHH6_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1105_LUNG	NCIH1105_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1436_LUNG	NCIH1436_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1876_LUNG	NCIH1876_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL24_LUNG	CORL24_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	COV644_OVARY	COV644_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	PECAPJ15_UPPER_AERODIGESTIVE_TRACT	PECAPJ15_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL88_LUNG	CORL88_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL95_LUNG	CORL95_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	PECAPJ49_UPPER_AERODIGESTIVE_TRACT	PECAPJ49_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT	PECAPJ34CLONEC12_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL51_LUNG	CORL51_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	RT11284_URINARY_TRACT	RT11284_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	PECAPJ41CLONED2_UPPER_AERODIGESTIVE_TRACT	PECAPJ41CLONED2_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	OAW42_OVARY	OAW42_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	OAW28_OVARY	OAW28_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	LC1SQSF_LUNG	LC1SQSF_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	KASUMI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KASUMI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH596_LUNG	NCIH596_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVMANA_OVARY	OVMANA_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS299_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HT1197_URINARY_TRACT	HT1197_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	A253_SALIVARY_GLAND	A253_SALIVARY_GLAND	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC366_LUNG	HCC366_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	DKMG_CENTRAL_NERVOUS_SYSTEM	DKMG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU349_KIDNEY	SNU349_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	UMUC1_URINARY_TRACT	UMUC1_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	NAMALWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NAMALWA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH292_LUNG	NCIH292_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	59M_OVARY	59M_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	U118MG_CENTRAL_NERVOUS_SYSTEM	U118MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	VMRCLCD_LUNG	VMRCLCD_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1833_LUNG	HCC1833_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	RH30_SOFT_TISSUE	RH30_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TCCSUP_URINARY_TRACT	TCCSUP_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL33_UPPER_AERODIGESTIVE_TRACT	CAL33_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL279_LUNG	CORL279_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	GB1_CENTRAL_NERVOUS_SYSTEM	GB1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	KURAMOCHI_OVARY	KURAMOCHI_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO684_ENDOMETRIUM	COLO684_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU685_ENDOMETRIUM	SNU685_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCCSTCK140_STOMACH	NCCSTCK140_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU489_CENTRAL_NERVOUS_SYSTEM	SNU489_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1076_UPPER_AERODIGESTIVE_TRACT	SNU1076_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU201_CENTRAL_NERVOUS_SYSTEM	SNU201_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU216_STOMACH	SNU216_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1196_BILIARY_TRACT	SNU1196_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU1079_BILIARY_TRACT	SNU1079_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1195_LUNG	HCC1195_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU466_CENTRAL_NERVOUS_SYSTEM	SNU466_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	YD38_UPPER_AERODIGESTIVE_TRACT	YD38_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU283_LARGE_INTESTINE	SNU283_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU46_UPPER_AERODIGESTIVE_TRACT	SNU46_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU308_BILIARY_TRACT	SNU308_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU245_BILIARY_TRACT	SNU245_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU478_BILIARY_TRACT	SNU478_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU899_UPPER_AERODIGESTIVE_TRACT	SNU899_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SET2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SET2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU626_CENTRAL_NERVOUS_SYSTEM	SNU626_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU878_LIVER	SNU878_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNU840_OVARY	SNU840_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	DAOY_CENTRAL_NERVOUS_SYSTEM	DAOY_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HEP3B217_LIVER	HEP3B217_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	KYM1_SOFT_TISSUE	KYM1_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LC1F_LUNG	LC1F_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HLE_LIVER	HLE_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	CMK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CMK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JMSU1_URINARY_TRACT	JMSU1_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	IMR32_AUTONOMIC_GANGLIA	IMR32_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	CPCN_LUNG	CPCN_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	PLCPRF5_LIVER	PLCPRF5_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	KPNYN_AUTONOMIC_GANGLIA	KPNYN_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH929_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NCIH929_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMRC3_KIDNEY	KMRC3_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2023_LUNG	NCIH2023_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	DMS153_LUNG	DMS153_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1048_LUNG	NCIH1048_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	D341MED_CENTRAL_NERVOUS_SYSTEM	D341MED_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1618_LUNG	NCIH1618_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS675T_FIBROBLAST	HS675T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	PEER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PEER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS839T_FIBROBLAST	HS839T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCILY3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCILY3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS819T_FIBROBLAST	HS819T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH69_LUNG	NCIH69_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	ZR751_BREAST	ZR751_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	KG1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KG1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNBE2_AUTONOMIC_GANGLIA	SKNBE2_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC70_BREAST	HCC70_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2452_PLEURA	NCIH2452_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	LOUCY_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LOUCY_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1648_LUNG	NCIH1648_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	TO175T_FIBROBLAST	TO175T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	MPP89_PLEURA	MPP89_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	MG63_BONE	MG63_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS840T_FIBROBLAST	HS840T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE617T_SOFT_TISSUE	TE617T_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW1088_CENTRAL_NERVOUS_SYSTEM	SW1088_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	ISTMES2_PLEURA	ISTMES2_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1930_LUNG	NCIH1930_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1623_LUNG	NCIH1623_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS229T_FIBROBLAST	HS229T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1838_LUNG	NCIH1838_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1836_LUNG	NCIH1836_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS688AT_FIBROBLAST	HS688AT_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS822T_FIBROBLAST	HS822T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	BL70_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BL70_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	G292CLONEA141B1_BONE	G292CLONEA141B1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS737T_FIBROBLAST	HS737T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS616T_FIBROBLAST	HS616T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS600T_FIBROBLAST	HS600T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE159T_FIBROBLAST	TE159T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	RERFLCKJ_LUNG	RERFLCKJ_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1693_LUNG	NCIH1693_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW780_URINARY_TRACT	SW780_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS729_SOFT_TISSUE	HS729_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHOS2_OVARY	JHOS2_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	MCF7_BREAST	MCF7_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U937_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKLMS1_SOFT_TISSUE	SKLMS1_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUTU80_SMALL_INTESTINE	HUTU80_SMALL_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC202_BREAST	HCC202_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	REH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	REH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ONS76_CENTRAL_NERVOUS_SYSTEM	ONS76_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	RPMI6666_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI6666_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNUC1_LARGE_INTESTINE	SNUC1_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNDZ_AUTONOMIC_GANGLIA	SKNDZ_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	DMS114_LUNG	DMS114_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	TT_OESOPHAGUS	TT_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCILY10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCILY10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ST486_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ST486_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW1353_BONE	SW1353_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MDAMB157_BREAST	MDAMB157_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN18_CENTRAL_NERVOUS_SYSTEM	LN18_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	769P_KIDNEY	769P_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	786O_KIDNEY	786O_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HEPG2_LIVER	HEPG2_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH524_LUNG	NCIH524_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH209_LUNG	NCIH209_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SBC5_LUNG	SBC5_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	VCAP_PROSTATE	VCAP_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO704_OVARY	COLO704_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	IPC298_SKIN	IPC298_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	EFM192A_BREAST	EFM192A_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	EFO27_OVARY	EFO27_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH196_LUNG	NCIH196_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	IGROV1_OVARY	IGROV1_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH889_LUNG	NCIH889_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH211_LUNG	NCIH211_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS571T_OVARY	HS571T_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	MDAPCA2B_PROSTATE	MDAPCA2B_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HT1376_URINARY_TRACT	HT1376_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2171_LUNG	NCIH2171_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LK2_LUNG	LK2_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVSAHO_OVARY	OVSAHO_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RERFLCSQ1_LUNG	RERFLCSQ1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HMCB_SKIN	HMCB_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	FUOV1_OVARY	FUOV1_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMS12BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KMS12BM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	T98G_CENTRAL_NERVOUS_SYSTEM	T98G_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HL60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HL60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MELJUSO_SKIN	MELJUSO_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	VMRCRCZ_KIDNEY	VMRCRCZ_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	DU145_PROSTATE	DU145_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKMEL2_SKIN	SKMEL2_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	A172_CENTRAL_NERVOUS_SYSTEM	A172_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUH1_LIVER	HUH1_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	MDAMB453_BREAST	MDAMB453_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	TYKNU_OVARY	TYKNU_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVISE_OVARY	OVISE_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	EFM19_BREAST	EFM19_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	RL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	GMS10_CENTRAL_NERVOUS_SYSTEM	GMS10_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SEM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HLFA_FIBROBLAST	HLFA_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	42MGBA_CENTRAL_NERVOUS_SYSTEM	42MGBA_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	GAMG_CENTRAL_NERVOUS_SYSTEM	GAMG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH522_LUNG	NCIH522_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HDMYZ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HDMYZ_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH661_LUNG	NCIH661_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LNCAPCLONEFGC_PROSTATE	LNCAPCLONEFGC_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC78_LUNG	HCC78_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	YKG1_CENTRAL_NERVOUS_SYSTEM	YKG1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	ESS1_ENDOMETRIUM	ESS1_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	U251MG_CENTRAL_NERVOUS_SYSTEM	U251MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE11_OESOPHAGUS	TE11_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	KS1_CENTRAL_NERVOUS_SYSTEM	KS1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHUEM2_ENDOMETRIUM	JHUEM2_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOGGUVW_CENTRAL_NERVOUS_SYSTEM	MOGGUVW_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE5_OESOPHAGUS	TE5_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	KELLY_AUTONOMIC_GANGLIA	KELLY_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE15_OESOPHAGUS	TE15_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	ABC1_LUNG	ABC1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	8MGBA_CENTRAL_NERVOUS_SYSTEM	8MGBA_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1703_LUNG	NCIH1703_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	DETROIT562_UPPER_AERODIGESTIVE_TRACT	DETROIT562_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	BT474_BREAST	BT474_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	ACHN_KIDNEY	ACHN_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1581_LUNG	NCIH1581_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCABER_URINARY_TRACT	SCABER_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVKATE_OVARY	OVKATE_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1781_LUNG	NCIH1781_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	G402_SOFT_TISSUE	G402_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH146_LUNG	NCIH146_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHP212_AUTONOMIC_GANGLIA	CHP212_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	RT4_URINARY_TRACT	RT4_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	KATOIII_STOMACH	KATOIII_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	BDCM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BDCM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS606T_FIBROBLAST	HS606T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	DMS79_LUNG	DMS79_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2106_LUNG	NCIH2106_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW579_THYROID	SW579_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	MDAMB468_BREAST	MDAMB468_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH526_LUNG	NCIH526_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	TOV112D_OVARY	TOV112D_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	BT549_BREAST	BT549_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2196_LUNG	NCIH2196_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL851_BREAST	CAL851_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	EFO21_OVARY	EFO21_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH446_LUNG	NCIH446_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS944T_SKIN	HS944T_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	DOV13_OVARY	DOV13_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RMGI_OVARY	RMGI_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	PC3_PROSTATE	PC3_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	K562_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RT112_URINARY_TRACT	RT112_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	NUGC3_STOMACH	NUGC3_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	U87MG_CENTRAL_NERVOUS_SYSTEM	U87MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAKI2_KIDNEY	CAKI2_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	OE19_OESOPHAGUS	OE19_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMRC2_KIDNEY	KMRC2_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHH2_LIVER	JHH2_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	IM95_STOMACH	IM95_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MV411_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMRC1_KIDNEY	KMRC1_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2170_LUNG	NCIH2170_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SQ1_LUNG	SQ1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	AN3CA_ENDOMETRIUM	AN3CA_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOGGCCM_CENTRAL_NERVOUS_SYSTEM	MOGGCCM_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	KYSE30_OESOPHAGUS	KYSE30_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	KYSE150_OESOPHAGUS	KYSE150_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1299_LUNG	NCIH1299_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN443_CENTRAL_NERVOUS_SYSTEM	LN443_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SLR23_KIDNEY	SLR23_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HMEL_BREAST	HMEL_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	OELE_OVARY	OELE_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN235_CENTRAL_NERVOUS_SYSTEM	LN235_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SLR24_KIDNEY	SLR24_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	EWS502_BONE	EWS502_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SALE_LUNG	SALE_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC2814_LUNG	HCC2814_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	TIG3TD_FIBROBLAST	TIG3TD_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	TC32_BONE	TC32_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SF172_CENTRAL_NERVOUS_SYSTEM	SF172_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	PRECLH_PROSTATE	PRECLH_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	U343_CENTRAL_NERVOUS_SYSTEM	U343_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN215_CENTRAL_NERVOUS_SYSTEM	LN215_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SLR25_KIDNEY	SLR25_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	U178_CENTRAL_NERVOUS_SYSTEM	U178_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HEKTE_KIDNEY	HEKTE_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	SLR26_KIDNEY	SLR26_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKRC20_KIDNEY	SKRC20_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN319_CENTRAL_NERVOUS_SYSTEM	LN319_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN382_CENTRAL_NERVOUS_SYSTEM	LN382_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SLR21_KIDNEY	SLR21_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	LNZ308_CENTRAL_NERVOUS_SYSTEM	LNZ308_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	LN340_CENTRAL_NERVOUS_SYSTEM	LN340_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SLR20_KIDNEY	SLR20_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW8_BONE	EW8_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	UOK101_KIDNEY	UOK101_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHESOAD1_OESOPHAGUS	JHESOAD1_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	CH157MN_CENTRAL_NERVOUS_SYSTEM	CH157MN_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCC25_UPPER_AERODIGESTIVE_TRACT	SCC25_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	UT7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	UT7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MHHNB11_AUTONOMIC_GANGLIA	MHHNB11_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1806_BREAST	HCC1806_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	GRANTA519_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	GRANTA519_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MONOMAC6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MONOMAC6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW1710_URINARY_TRACT	SW1710_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLT13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SR786_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SR786_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCC15_UPPER_AERODIGESTIVE_TRACT	SCC15_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	RS5_FIBROBLAST	RS5_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2126_LUNG	NCIH2126_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2141_LUNG	NCIH2141_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	RD_SOFT_TISSUE	RD_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TF1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS172T_FIBROBLAST	HS172T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS834T_FIBROBLAST	HS834T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE125T_FIBROBLAST	TE125T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	UACC812_BREAST	UACC812_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	ALLSIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ALLSIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ME1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ME1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	DM3_FIBROBLAST	DM3_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	JJN3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JJN3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CL14_LARGE_INTESTINE	CL14_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KYO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KYO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JL1_PLEURA	JL1_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL148_BREAST	CAL148_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NALM19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HPBALL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HPBALL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUPT11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUPT11_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MDAMB134VI_BREAST	MDAMB134VI_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1500_BREAST	HCC1500_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1599_BREAST	HCC1599_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOTN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOTN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIAML3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUDHL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL4_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RH41_SOFT_TISSUE	RH41_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCILY19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCILY19_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKMM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SKMM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KASUMI6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KASUMI6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS698T_FIBROBLAST	HS698T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	UACC893_BREAST	UACC893_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	MINO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MINO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHP126_AUTONOMIC_GANGLIA	CHP126_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO680N_OESOPHAGUS	COLO680N_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	LAMA84_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LAMA84_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CMLT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CMLT1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EHEB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EHEB_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL54_KIDNEY	CAL54_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	BV173_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BV173_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	DOHH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DOHH2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EOL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	VMCUB1_URINARY_TRACT	VMCUB1_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	LP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LP1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LXF289_LUNG	LXF289_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MONOMAC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PF382_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NALM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NALM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIAML2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MHHCALL3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHHCALL3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JURLMK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JURLMK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KE37_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KE37_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JK1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KARPAS422_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS422_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL78_BONE	CAL78_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HDQP1_BREAST	HDQP1_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	MUTZ5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MUTZ5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ONCODG1_OVARY	ONCODG1_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HDLM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HDLM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL29_URINARY_TRACT	CAL29_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCLC21H_LUNG	SCLC21H_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CALU3_LUNG	CALU3_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1435_LUNG	NCIH1435_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1869_LUNG	NCIH1869_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS852T_SKIN	HS852T_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1419_BREAST	HCC1419_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	BT483_BREAST	BT483_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS281T_FIBROBLAST	HS281T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS934T_FIBROBLAST	HS934T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1428_BREAST	HCC1428_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	KU812_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KU812_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE441T_SOFT_TISSUE	TE441T_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	PFEIFFER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PFEIFFER_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS863T_FIBROBLAST	HS863T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH841_LUNG	NCIH841_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS821T_FIBROBLAST	HS821T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	DEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DEL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BEN_LUNG	BEN_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO320_LARGE_INTESTINE	COLO320_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RPMI8402_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI8402_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BFTC905_URINARY_TRACT	BFTC905_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	BFTC909_KIDNEY	BFTC909_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	MHHES1_BONE	MHHES1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS343T_FIBROBLAST	HS343T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS888T_FIBROBLAST	HS888T_FIBROBLAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	KU1919_URINARY_TRACT	KU1919_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CADOES1_BONE	CADOES1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OPM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LCLC103H_LUNG	LCLC103H_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	697_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	697_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MHHCALL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHHCALL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	M07E_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	M07E_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	L428_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L428_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLT16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	2313287_STOMACH	2313287_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	JVM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JVM2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL51_BREAST	CAL51_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	L363_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L363_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SIMA_AUTONOMIC_GANGLIA	SIMA_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	BC3C_URINARY_TRACT	BC3C_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUDHL6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	REC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	REC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCIM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MEC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MEC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUDHL5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TT2609C02_THYROID	TT2609C02_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL120_BREAST	CAL120_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	647V_URINARY_TRACT	647V_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	RH18_SOFT_TISSUE	RH18_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLM16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLM16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	F36P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	F36P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EJM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	EJM_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	WSUDLCL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	WSUDLCL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JIMT1_BREAST	JIMT1_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	ML1_THYROID	ML1_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLP8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO699_LUNG	COLO699_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	M059J_CENTRAL_NERVOUS_SYSTEM	M059J_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	OE21_OESOPHAGUS	OE21_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	SF8657_SKIN	SF8657_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2073_LUNG	NCIH2073_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HN_UPPER_AERODIGESTIVE_TRACT	HN_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HNT34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HNT34_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	PLB985_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	PLB985_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SKNO1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOLT3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOLT3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EKVX_LUNG	EKVX_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	UO31_KIDNEY	UO31_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	TK10_KIDNEY	TK10_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	SF539_CENTRAL_NERVOUS_SYSTEM	SF539_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SNB75_CENTRAL_NERVOUS_SYSTEM	SNB75_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HOP92_LUNG	HOP92_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	ACCS_URINARY_TRACT	ACCS_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	BT12_SOFT_TISSUE	BT12_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	C8166_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	C8166_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CACO2_LARGE_INTESTINE	CACO2_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC2429_LUNG	HCC2429_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC2450_LUNG	HCC2450_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	INA6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	INA6_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KD_SOFT_TISSUE	KD_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KPMRTRY_SOFT_TISSUE	KPMRTRY_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MON_SOFT_TISSUE	MON_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2004RT_SOFT_TISSUE	NCIH2004RT_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2077_LUNG	NCIH2077_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2882_LUNG	NCIH2882_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1819_LUNG	NCIH1819_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH3122_LUNG	NCIH3122_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NHAHTDD_CENTRAL_NERVOUS_SYSTEM	NHAHTDD_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCIMY5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIMY5_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCIMY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCIMY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OPM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OPM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKNEP1_BONE	SKNEP1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKPNDW_BONE	SKPNDW_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	STM9101_SOFT_TISSUE	STM9101_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SIHA_CERVIX	SIHA_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	TM87_SOFT_TISSUE	TM87_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TTC709_SOFT_TISSUE	TTC709_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TTC1240_SOFT_TISSUE	TTC1240_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TTC549_SOFT_TISSUE	TTC549_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TTC642_SOFT_TISSUE	TTC642_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BT16_SOFT_TISSUE	BT16_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CW9019_SOFT_TISSUE	CW9019_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	D425_CENTRAL_NERVOUS_SYSTEM	D425_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	D458_CENTRAL_NERVOUS_SYSTEM	D458_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SMSCTR_SOFT_TISSUE	SMSCTR_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BB30HNC_UPPER_AERODIGESTIVE_TRACT	BB30HNC_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	BB49HNC_UPPER_AERODIGESTIVE_TRACT	BB49HNC_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	BICR78_UPPER_AERODIGESTIVE_TRACT	BICR78_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CA922_UPPER_AERODIGESTIVE_TRACT	CA922_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	DOK_UPPER_AERODIGESTIVE_TRACT	DOK_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	H3118_UPPER_AERODIGESTIVE_TRACT	H3118_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HO1N1_UPPER_AERODIGESTIVE_TRACT	HO1N1_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	HO1U1_UPPER_AERODIGESTIVE_TRACT	HO1U1_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHU011_UPPER_AERODIGESTIVE_TRACT	JHU011_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHU022_UPPER_AERODIGESTIVE_TRACT	JHU022_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	KON_UPPER_AERODIGESTIVE_TRACT	KON_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	KOSC2_UPPER_AERODIGESTIVE_TRACT	KOSC2_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB771HNC_UPPER_AERODIGESTIVE_TRACT	LB771HNC_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	OSC19_UPPER_AERODIGESTIVE_TRACT	OSC19_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	OSC20_UPPER_AERODIGESTIVE_TRACT	OSC20_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	PCI15A_UPPER_AERODIGESTIVE_TRACT	PCI15A_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	PCI30_UPPER_AERODIGESTIVE_TRACT	PCI30_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	PCI38_UPPER_AERODIGESTIVE_TRACT	PCI38_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	PCI4B_UPPER_AERODIGESTIVE_TRACT	PCI4B_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	PCI6A_UPPER_AERODIGESTIVE_TRACT	PCI6A_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	RPMI2650_UPPER_AERODIGESTIVE_TRACT	RPMI2650_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SAS_UPPER_AERODIGESTIVE_TRACT	SAS_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKN3_UPPER_AERODIGESTIVE_TRACT	SKN3_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	ESO26_OESOPHAGUS	ESO26_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	ESO51_OESOPHAGUS	ESO51_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	FLO1_OESOPHAGUS	FLO1_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCE4_OESOPHAGUS	HCE4_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	KYSE50_OESOPHAGUS	KYSE50_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	OACM51_OESOPHAGUS	OACM51_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	OACP4C_OESOPHAGUS	OACP4C_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	TE12_OESOPHAGUS	TE12_OESOPHAGUS	no alteration	no alteration	no alteration						
+ccle_broad_2019	CESS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CESS_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CTV1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CTV1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NKM1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	QIMRWIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	QIMRWIL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BALL1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KARPAS231_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS231_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MHHPREB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MHHPREB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MN60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MN60_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ROS50_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ROS50_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUPB8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUPB8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	U698M_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	U698M_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CROAP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CROAP2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CTB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CTB1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	FARAGE_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	FARAGE_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JSC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JSC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KARPAS1106P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS1106P_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCK8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RCK8_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SCC3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SLVL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SLVL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUDHL16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SUDHL16_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TUR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	TUR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	VAL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	VAL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	JIYOYEP2003_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	JIYOYEP2003_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	P32ISH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P32ISH_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RAMOS2G64C10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RAMOS2G64C10_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RPMI8866_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	RPMI8866_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MCCAR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MCCAR_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MLMA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MLMA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MOT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MOT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KY821_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KY821_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ALLPO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ALLPO_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BE13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BE13_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HAL01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HAL01_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LC41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	LC41_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	P30OHK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	P30OHK_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ATN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ATN1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	H9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	H9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	YT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	YT_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ARH77_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	ARH77_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	IM9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	IM9_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CS1_BONE	CS1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHSA8926_BONE	CHSA8926_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ES1_BONE	ES1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ES3_BONE	ES3_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ES4_BONE	ES4_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ES5_BONE	ES5_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ES7_BONE	ES7_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ES8_BONE	ES8_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW1_BONE	EW1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW11_BONE	EW11_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW12_BONE	EW12_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW13_BONE	EW13_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW16_BONE	EW16_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW18_BONE	EW18_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW22_BONE	EW22_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW24_BONE	EW24_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW3_BONE	EW3_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EW7_BONE	EW7_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL72_BONE	CAL72_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUO3N1_BONE	HUO3N1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NOS1_BONE	NOS1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NY_BONE	NY_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO824_BREAST	COLO824_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	MDAMB330_BREAST	MDAMB330_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	MFM223_BREAST	MFM223_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	MRKNU1_BREAST	MRKNU1_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCUBM_BREAST	OCUBM_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	ETK1_BILIARY_TRACT	ETK1_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAR1_LARGE_INTESTINE	CAR1_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH630_LARGE_INTESTINE	NCIH630_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	GT3TKB_STOMACH	GT3TKB_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	HSC39_STOMACH	HSC39_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	MKN28_STOMACH	MKN28_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	RF48_STOMACH	RF48_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCH_STOMACH	SCH_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKGT2_STOMACH	SKGT2_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW13_ADRENAL_CORTEX	SW13_ADRENAL_CORTEX	no alteration	no alteration	no alteration						
+ccle_broad_2019	BB65RCC_KIDNEY	BB65RCC_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	HA7RCC_KIDNEY	HA7RCC_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB1047RCC_KIDNEY	LB1047RCC_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB2241RCC_KIDNEY	LB2241RCC_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB996RCC_KIDNEY	LB996RCC_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCC010_KIDNEY	NCC010_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCC021_KIDNEY	NCC021_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCCAB_KIDNEY	RCCAB_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCCER_KIDNEY	RCCER_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCCFG2_KIDNEY	RCCFG2_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCCJW_KIDNEY	RCCJW_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCCMF_KIDNEY	RCCMF_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	RXF393_KIDNEY	RXF393_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	SN12C_KIDNEY	SN12C_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	201T_LUNG	201T_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	EMCBAC1_LUNG	EMCBAC1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LC2AD_LUNG	LC2AD_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH720_LUNG	NCIH720_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH835_LUNG	NCIH835_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	UMC11_LUNG	UMC11_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1770_LUNG	NCIH1770_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2135_LUNG	NCIH2135_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL321_PLEURA	CORL321_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL303_LUNG	CORL303_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	CORL32_LUNG	CORL32_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	ISTSL1_LUNG	ISTSL1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB647SCLC_LUNG	LB647SCLC_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LU134A_LUNG	LU134A_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LU135_LUNG	LU135_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LU139_LUNG	LU139_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	LU165_LUNG	LU165_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1417_LUNG	NCIH1417_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1688_LUNG	NCIH1688_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH250_LUNG	NCIH250_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH345_LUNG	NCIH345_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH378_LUNG	NCIH378_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH64_LUNG	NCIH64_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH748_LUNG	NCIH748_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH847_LUNG	NCIH847_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SBC1_LUNG	SBC1_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	H2369_PLEURA	H2369_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2373_PLEURA	NCIH2373_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2461_PLEURA	NCIH2461_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2591_PLEURA	NCIH2591_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2595_PLEURA	NCIH2595_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2722_PLEURA	NCIH2722_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2731_PLEURA	NCIH2731_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2795_PLEURA	NCIH2795_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2803_PLEURA	NCIH2803_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2804_PLEURA	NCIH2804_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2810_PLEURA	NCIH2810_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2818_PLEURA	NCIH2818_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH2869_PLEURA	NCIH2869_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	H290_PLEURA	H290_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	D247MG_CENTRAL_NERVOUS_SYSTEM	D247MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	D263MG_CENTRAL_NERVOUS_SYSTEM	D263MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	D336MG_CENTRAL_NERVOUS_SYSTEM	D336MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	D392MG_CENTRAL_NERVOUS_SYSTEM	D392MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	D502MG_CENTRAL_NERVOUS_SYSTEM	D502MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	D542MG_CENTRAL_NERVOUS_SYSTEM	D542MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	D566MG_CENTRAL_NERVOUS_SYSTEM	D566MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	LNZTA3WT4_CENTRAL_NERVOUS_SYSTEM	LNZTA3WT4_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKMG1_CENTRAL_NERVOUS_SYSTEM	SKMG1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	PFSK1_CENTRAL_NERVOUS_SYSTEM	PFSK1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	BE2M17_AUTONOMIC_GANGLIA	BE2M17_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHP134_AUTONOMIC_GANGLIA	CHP134_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	GIMEN_AUTONOMIC_GANGLIA	GIMEN_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	GOTO_AUTONOMIC_GANGLIA	GOTO_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	IMR5_AUTONOMIC_GANGLIA	IMR5_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NBTU110_AUTONOMIC_GANGLIA	NBTU110_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB10_AUTONOMIC_GANGLIA	NB10_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB12_AUTONOMIC_GANGLIA	NB12_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB13_AUTONOMIC_GANGLIA	NB13_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB14_AUTONOMIC_GANGLIA	NB14_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB17_AUTONOMIC_GANGLIA	NB17_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB5_AUTONOMIC_GANGLIA	NB5_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB6_AUTONOMIC_GANGLIA	NB6_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB69_AUTONOMIC_GANGLIA	NB69_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB7_AUTONOMIC_GANGLIA	NB7_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NH12_AUTONOMIC_GANGLIA	NH12_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	TGW_AUTONOMIC_GANGLIA	TGW_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	PL18_PANCREAS	PL18_PANCREAS	no alteration	no alteration	no alteration						
+ccle_broad_2019	CP66MEL_SKIN	CP66MEL_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	GAK_SKIN	GAK_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB2518MEL_SKIN	LB2518MEL_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB373MELD_SKIN	LB373MELD_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	A431_SKIN	A431_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	DJM1_SKIN	DJM1_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW684_SOFT_TISSUE	SW684_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RH1_SOFT_TISSUE	RH1_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MFHINO_SOFT_TISSUE	MFHINO_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	VAESBJ_SOFT_TISSUE	VAESBJ_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ASH3_THYROID	ASH3_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	RO82W1_THYROID	RO82W1_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	DSH1_URINARY_TRACT	DSH1_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB831BLC_URINARY_TRACT	LB831BLC_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	C4I_CERVIX	C4I_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	CAL39_VULVA	CAL39_VULVA	no alteration	no alteration	no alteration						
+ccle_broad_2019	CASKI_CERVIX	CASKI_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	DOTC24510_CERVIX	DOTC24510_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	HT3_CERVIX	HT3_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	ME180_CERVIX	ME180_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	MS751_CERVIX	MS751_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKGIIIA_CERVIX	SKGIIIA_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	TCYIK_CERVIX	TCYIK_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHOS3_OVARY	JHOS3_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	KGN_OVARY	KGN_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	OV17R_OVARY	OV17R_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVCA420_OVARY	OVCA420_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVMIU_OVARY	OVMIU_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	PA1_OVARY	PA1_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	PEO1_OVARY	PEO1_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	UWB1289_OVARY	UWB1289_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	BPH1_PROSTATE	BPH1_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	PWR1E_PROSTATE	PWR1E_PROSTATE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCCIT_TESTIS	NCCIT_TESTIS	no alteration	no alteration	no alteration						
+ccle_broad_2019	NEC8_TESTIS	NEC8_TESTIS	no alteration	no alteration	no alteration						
+ccle_broad_2019	JAR_PLACENTA	JAR_PLACENTA	no alteration	no alteration	no alteration						
+ccle_broad_2019	JEG3_PLACENTA	JEG3_PLACENTA	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW962_VULVA	SW962_VULVA	no alteration	no alteration	no alteration						
+ccle_broad_2019	SKN_ENDOMETRIUM	SKN_ENDOMETRIUM	no alteration	no alteration	no alteration						
+ccle_broad_2019	BONNA12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	BONNA12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ES6_BONE	ES6_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	DIFI_LARGE_INTESTINE	DIFI_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RCCJF_KIDNEY	RCCJF_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW156_KIDNEY	SW156_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	PC3JPC3_LUNG	PC3JPC3_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH740_LUNG	NCIH740_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH1304_LUNG	NCIH1304_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	D423MG_CENTRAL_NERVOUS_SYSTEM	D423MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	KPNYS_AUTONOMIC_GANGLIA	KPNYS_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	MCIXC_AUTONOMIC_GANGLIA	MCIXC_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	OMC1_CERVIX	OMC1_CERVIX	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHU029_UPPER_AERODIGESTIVE_TRACT	JHU029_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCC90_UPPER_AERODIGESTIVE_TRACT	SCC90_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCILY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCILY7_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHSA0011_BONE	CHSA0011_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHSA0108_BONE	CHSA0108_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	STS0421_SOFT_TISSUE	STS0421_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MYM12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MYM12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NK92MI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NK92MI_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RERFLCFM_LUNG	RERFLCFM_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	D245MG_CENTRAL_NERVOUS_SYSTEM	D245MG_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	OVCA433_OVARY	OVCA433_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	TMK1_STOMACH	TMK1_STOMACH	no alteration	no alteration	no alteration						
+ccle_broad_2019	SC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SC1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	UCH2_BONE	UCH2_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	DG75_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DG75_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HEMCSS_BONE	HEMCSS_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH187_LUNG	NCIH187_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SBC3_LUNG	SBC3_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH513_PLEURA	NCIH513_PLEURA	no alteration	no alteration	no alteration						
+ccle_broad_2019	KINGS1_CENTRAL_NERVOUS_SYSTEM	KINGS1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NO10_CENTRAL_NERVOUS_SYSTEM	NO10_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NO11_CENTRAL_NERVOUS_SYSTEM	NO11_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIH128_LUNG	NCIH128_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MEL202_EYE	MEL202_EYE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KMH2_THYROID	KMH2_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	MC1010_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MC1010_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LIM1215_LARGE_INTESTINE	LIM1215_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TASK1_CENTRAL_NERVOUS_SYSTEM	TASK1_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	UDSCC2_UPPER_AERODIGESTIVE_TRACT	UDSCC2_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	SARC9371_BONE	SARC9371_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MCC26_SKIN	MCC26_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	NBSUSSR_AUTONOMIC_GANGLIA	NBSUSSR_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	LC1SQ_LUNG	LC1SQ_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS604T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HS604T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS751T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	HS751T_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SF767_CENTRAL_NERVOUS_SYSTEM	SF767_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HS274T_BREAST	HS274T_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	S117_SOFT_TISSUE	S117_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	127399_SOFT_TISSUE	127399_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	ANGMCSS_CENTRAL_NERVOUS_SYSTEM	ANGMCSS_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	BIN67_OVARY	BIN67_OVARY	no alteration	no alteration	no alteration						
+ccle_broad_2019	C10_LARGE_INTESTINE	C10_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	C75_LARGE_INTESTINE	C75_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	C99_LARGE_INTESTINE	C99_LARGE_INTESTINE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA06ATRT_SOFT_TISSUE	CHLA06ATRT_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA15_AUTONOMIC_GANGLIA	CHLA15_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA218_BONE	CHLA218_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA258_BONE	CHLA258_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA266_SOFT_TISSUE	CHLA266_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA32_BONE	CHLA32_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA57_BONE	CHLA57_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CHLA99_BONE	CHLA99_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CME1_SOFT_TISSUE	CME1_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COGAR359_SOFT_TISSUE	COGAR359_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COGE352_BONE	COGE352_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COGN278_AUTONOMIC_GANGLIA	COGN278_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	COGN305_AUTONOMIC_GANGLIA	COGN305_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	DERL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DERL2_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	DIPG007_CENTRAL_NERVOUS_SYSTEM	DIPG007_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	DL40_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	DL40_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	EWS834_BONE	EWS834_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	FEPD_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	FEPD_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	GBM001_CENTRAL_NERVOUS_SYSTEM	GBM001_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	HSC1_SKIN	HSC1_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	JHC7_BONE	JHC7_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	KARPAS384_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	KARPAS384_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	L82_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	L82_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LAN2_AUTONOMIC_GANGLIA	LAN2_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	MAC2A_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MAC2A_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MB1_THYROID	MB1_THYROID	no alteration	no alteration	no alteration						
+ccle_broad_2019	MCC142_SKIN	MCC142_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO14_LUNG	MERO14_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO25_LUNG	MERO25_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO41_LUNG	MERO41_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO48A_LUNG	MERO48A_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO82_LUNG	MERO82_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO83_LUNG	MERO83_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO84_LUNG	MERO84_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MERO95_LUNG	MERO95_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	MM415_SKIN	MM415_SKIN	no alteration	no alteration	no alteration						
+ccle_broad_2019	MTA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MTA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MUGCHOR1_BONE	MUGCHOR1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MYLA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	MYLA_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NB1643_AUTONOMIC_GANGLIA	NB1643_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	NKL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	NKL_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCILY12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCILY12_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	OCILY132_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	OCILY132_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	PACADD137_PANCREAS	PACADD137_PANCREAS	no alteration	no alteration	no alteration						
+ccle_broad_2019	PACADD165_PANCREAS	PACADD165_PANCREAS	no alteration	no alteration	no alteration						
+ccle_broad_2019	PEDS005TPFAD_KIDNEY	PEDS005TPFAD_KIDNEY	no alteration	no alteration	no alteration						
+ccle_broad_2019	PEDS015T_SOFT_TISSUE	PEDS015T_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CCLFPEDS0008T_SOFT_TISSUE	CCLFPEDS0008T_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CCLFPEDS0018T_SOFT_TISSUE	CCLFPEDS0018T_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	R262_CENTRAL_NERVOUS_SYSTEM	R262_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	RH28_SOFT_TISSUE	RH28_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RH36_SOFT_TISSUE	RH36_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RH4_SOFT_TISSUE	RH4_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	RHJT_SOFT_TISSUE	RHJT_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCLC22H_LUNG	SCLC22H_LUNG	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCMCRM2_SOFT_TISSUE	SCMCRM2_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCS214_SOFT_TISSUE	SCS214_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SMZ1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SMZ1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUM149PT_BREAST	SUM149PT_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	SUM159PT_BREAST	SUM159PT_BREAST	no alteration	no alteration	no alteration						
+ccle_broad_2019	SW954_VULVA	SW954_VULVA	no alteration	no alteration	no alteration						
+ccle_broad_2019	SYO1_SOFT_TISSUE	SYO1_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TC106_BONE	TC106_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TC138_BONE	TC138_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TC205_BONE	TC205_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TFK1_BILIARY_TRACT	TFK1_BILIARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	TTC442_SOFT_TISSUE	TTC442_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	TTC466_BONE	TTC466_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	UMCHOR1_BONE	UMCHOR1_BONE	no alteration	no alteration	no alteration						
+ccle_broad_2019	UMUC14_URINARY_TRACT	UMUC14_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	UMUC16_URINARY_TRACT	UMUC16_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	UMUC5_URINARY_TRACT	UMUC5_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	UMUC6_URINARY_TRACT	UMUC6_URINARY_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	UPCISCC152_UPPER_AERODIGESTIVE_TRACT	UPCISCC152_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	UW228_CENTRAL_NERVOUS_SYSTEM	UW228_CENTRAL_NERVOUS_SYSTEM	no alteration	no alteration	no alteration						
+ccle_broad_2019	Y79_AUTONOMIC_GANGLIA	Y79_AUTONOMIC_GANGLIA	no alteration	no alteration	no alteration						
+ccle_broad_2019	YAMATO_SOFT_TISSUE	YAMATO_SOFT_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CROAP3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	CROAP3_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HUH6CLONE5_LIVER	HUH6CLONE5_LIVER	no alteration	no alteration	no alteration						
+ccle_broad_2019	BB30PBL_MATCHED_NORMAL_TISSUE	BB30PBL_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BB49EBV_MATCHED_NORMAL_TISSUE	BB49EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	BB65EBV_MATCHED_NORMAL_TISSUE	BB65EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	COLO829_MATCHED_NORMAL_TISSUE	COLO829_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CP50EBV_MATCHED_NORMAL_TISSUE	CP50EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	CP66EBV_MATCHED_NORMAL_TISSUE	CP66EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HA7EBV_MATCHED_NORMAL_TISSUE	HA7EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1143_MATCHED_NORMAL_TISSUE	HCC1143_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1187_MATCHED_NORMAL_TISSUE	HCC1187_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1395_MATCHED_NORMAL_TISSUE	HCC1395_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1599_MATCHED_NORMAL_TISSUE	HCC1599_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1937_MATCHED_NORMAL_TISSUE	HCC1937_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC1954_MATCHED_NORMAL_TISSUE	HCC1954_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC2157_MATCHED_NORMAL_TISSUE	HCC2157_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC2218_MATCHED_NORMAL_TISSUE	HCC2218_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCC38_MATCHED_NORMAL_TISSUE	HCC38_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	HCET_UPPER_AERODIGESTIVE_TRACT	HCET_UPPER_AERODIGESTIVE_TRACT	no alteration	no alteration	no alteration						
+ccle_broad_2019	J82_MATCHED_NORMAL_TISSUE	J82_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	L542_MATCHED_NORMAL_TISSUE	L542_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB1047EBV_MATCHED_NORMAL_TISSUE	LB1047EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB2241EBV_MATCHED_NORMAL_TISSUE	LB2241EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB2518EBV_MATCHED_NORMAL_TISSUE	LB2518EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB373EBV_MATCHED_NORMAL_TISSUE	LB373EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB647PBL_MATCHED_NORMAL_TISSUE	LB647PBL_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB771PBL_MATCHED_NORMAL_TISSUE	LB771PBL_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB831EBV_MATCHED_NORMAL_TISSUE	LB831EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LB996EBV_MATCHED_NORMAL_TISSUE	LB996EBV_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	LS1034_MATCHED_NORMAL_TISSUE	LS1034_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MET2B	MET2B	no alteration	no alteration	no alteration						
+ccle_broad_2019	MZ1B_MATCHED_NORMAL_TISSUE	MZ1B_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	MZ7B_MATCHED_NORMAL_TISSUE	MZ7B_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL128_MATCHED_NORMAL_TISSUE	NCIBL128_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL1437_MATCHED_NORMAL_TISSUE	NCIBL1437_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL1770_MATCHED_NORMAL_TISSUE	NCIBL1770_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL2009_MATCHED_NORMAL_TISSUE	NCIBL2009_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL2052_MATCHED_NORMAL_TISSUE	NCIBL2052_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL2087_MATCHED_NORMAL_TISSUE	NCIBL2087_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL209_MATCHED_NORMAL_TISSUE	NCIBL209_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL2122_MATCHED_NORMAL_TISSUE	NCIBL2122_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL2126_MATCHED_NORMAL_TISSUE	NCIBL2126_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	NCIBL2171_MATCHED_NORMAL_TISSUE	NCIBL2171_MATCHED_NORMAL_TISSUE	no alteration	no alteration	no alteration						
+ccle_broad_2019	SCI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	SCI1_HAEMATOPOIETIC_AND_LYMPHOID_TISSUE	no alteration	no alteration	no alteration						
